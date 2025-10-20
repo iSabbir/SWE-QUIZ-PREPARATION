@@ -49,10 +49,15 @@ Based on the document, we can identify two main types:
 According to the document, a good constitution should have the following essential features:
 
 **1. Definiteness (নির্দিষ্টতা):** The language should be clear and precise so that there is no confusion in its meaning. (Articles 8, 27, 29 are examples).
+
 **2. Flexibility (নমনীয়তা):** It should be able to adapt to changing times and needs. (Article 142 deals with amendments).
+
 **3. Declaration of Fundamental Rights (মৌলিক অধিকারের ঘোষণা):** It must clearly state the basic rights and freedoms of all citizens. (Articles 26-47).
+
 **4. Comprehensiveness (সম্পূর্ণতা):** It should cover all aspects of the state, including the structure of government, rights of citizens, and principles of state policy.
+
 **5. Independence of Judiciary (ন্যায়পালিকার স্বাধীনতা):** The courts must be free from the control of the executive and legislative branches to ensure justice. (Article 22).
+
 **6. Directive Principles of State Policy (রাষ্ট্রের নীতি নির্দেশক মূলনীতি):** It should outline the social and economic goals that the government should strive to achieve. (Article 25).
 
 **Key English Words & Meanings:**
