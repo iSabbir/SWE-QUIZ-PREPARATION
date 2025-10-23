@@ -73,3 +73,56 @@ While both leaders shaped Bangladesh's foreign policy, their primary focus and s
 | **Key Successes (প্রধান সফলতা)** | **UN Membership (1974):** Gaining entry into the global body. **Recognition:** Gaining recognition from major Muslim and Western states. **"Friendship to all" Principle:** Establishing the foundation of non-aligned diplomacy. | **SAARC Initiative:** Proposing the idea of a regional body for South Asia (later formed in 1985). **OIC Engagement:** Strengthening relations with the Islamic world and promoting **Islamic Solidarity** (through constitutional amendment). **Shift from India-Centric:** Improving relations with China and Pakistan. |
 | **Core Tenet (মূল নীতি)** | Non-alignment (Jot Niropekkho-তা) and Universal Friendship. | Regional Economic Cooperation and Islamic Solidarity. |
 | **International Context (আন্তর্জাতিক প্রেক্ষাপট)** | Post-Liberation War, bipolar world, close ties with India and Soviet bloc. | Increased internal political instability, need for external balance to maintain stability, a move away from the Indian sphere of influence. |
+
+## Additional Questions on Bangladesh Foreign Policy (বাংলাদেশের পররাষ্ট্র নীতির উপর অতিরিক্ত প্রশ্ন)
+
+| Question (প্রশ্ন) | Bangla Meaning (বাংলা অর্থ) |
+| :--- | :--- |
+| **Q 4:** Critically analyze the evolution of Bangladesh's foreign policy from **bilateralism** to **multilateralism** and the current trend of **multi-alignment**. | **প্রশ্ন ৪:** বাংলাদেশের পররাষ্ট্র নীতির **দ্বিপাক্ষিকতা** থেকে **বহুপাক্ষিকতা** এবং বর্তমান **বহুমুখী জোটের** প্রবণতার বিবর্তনকে সমালোচনামূলকভাবে বিশ্লেষণ কর। |
+| **Q 5:** Explain the role and significance of **Economic Diplomacy** in Bangladesh's contemporary foreign policy. | **প্রশ্ন ৫:** বাংলাদেশের সমসাময়িক পররাষ্ট্র নীতিতে **অর্থনৈতিক কূটনীতির** ভূমিকা ও গুরুত্ব ব্যাখ্যা কর। |
+| **Q 6:** Discuss Bangladesh's diplomatic challenges in managing its relationship with its key neighbors, **India** and **China**, in the context of the **Indo-Pacific Outlook**. | **প্রশ্ন ৬:** **ইন্দো-প্যাসিফিক দৃষ্টিভঙ্গি**র প্রেক্ষাপটে প্রধান প্রতিবেশী **ভারত** ও **চীন**-এর সাথে সম্পর্ক বজায় রাখতে বাংলাদেশের কূটনৈতিক চ্যালেঞ্জগুলো আলোচনা কর। |
+| **Q 7:** Evaluate Bangladesh's successes and failures in resolving the **Ganges Water Sharing Treaty** and the **Chittagong Hill Tracts Peace Accord** through diplomatic means. | **প্রশ্ন ৭:** কূটনৈতিক উপায়ে **গঙ্গা পানি বন্টন চুক্তি** ও **পার্বত্য চট্টগ্রাম শান্তি চুক্তি** সমাধানে বাংলাদেশের সফলতা ও ব্যর্থতা মূল্যায়ন কর। |
+| **Q 8:** How does the issue of **national security** influence Bangladesh's foreign policy choices regarding regional security alliances and arms procurement? | **প্রশ্ন ৮:** আঞ্চলিক নিরাপত্তা জোট এবং অস্ত্র সংগ্রহের বিষয়ে **জাতীয় নিরাপত্তা**র বিষয়টি কীভাবে বাংলাদেশের পররাষ্ট্র নীতির পছন্দকে প্রভাবিত করে? |
+
+---
+
+## Glossary & Study Tricks (পরিভাষা ও মনে রাখার কৌশল)
+
+### 1. Hard Word Meanings (কঠিন শব্দের অর্থ)
+
+| English Term (ইংরেজি শব্দ) | Bangla Meaning (বাংলা অর্থ) | Easy Trick / Mnemonic (সহজ কৌশল / সূত্র) |
+| :--- | :--- | :--- |
+| **Bilateralism** | দ্বিপাক্ষিকতা (দুটি পক্ষের মধ্যে সম্পর্ক) | **"Bi"** মানে 'দুই' (Two). মনে রাখুন: **Bilateral = Bi + Lateral (দুই পক্ষ)**। |
+| **Multilateralism** | বহুপাক্ষিকতা (বহু দেশের সাথে সম্পর্ক) | **"Multi"** মানে 'অনেক' (Many). মনে রাখুন: **Multilateral = Multi + Lateral (অনেক পক্ষ)**। |
+| **Multi-alignment** | বহুমুখী জোট/বিভিন্ন পক্ষের সাথে ভারসাম্যপূর্ণ সম্পর্ক | মনে রাখুন: **Multi-alignment** মানে **"সকলের সাথে আংশিক বন্ধুত্ব"**। এটি Non-Alignment-এর আধুনিক রূপ। |
+| **Economic Diplomacy** | অর্থনৈতিক কূটনীতি | মনে রাখুন: **অর্থ** (টাকা-পয়সা, ব্যবসা) দিয়ে যে **কূটনীতি** (আলোচনা) চলে। যেমন: **FDI, Trade, Aid**। |
+| **Geopolitical** | ভূ-রাজনৈতিক (ভূগোল ও রাজনীতির সম্পর্ক) | মনে রাখুন: **Geo** (ভূগোল/স্থান) + **Political** (রাজনীতি)। দেশের **অবস্থানগত গুরুত্ব**। |
+| **Sovereignty** | সার্বভৌমত্ব (সর্বোচ্চ ও স্বাধীন ক্ষমতা) | মনে রাখুন: **Sovereignty** = দেশের **নিজের ইচ্ছামতো সিদ্ধান্ত নেওয়ার ক্ষমতা**। |
+| **Repatriation** | প্রত্যাবাসন (শরণার্থীদের নিজ দেশে ফেরত পাঠানো) | মনে রাখুন: **Re** (আবার) + **Patriate** (পিতৃভূমি)। অর্থাৎ, **দেশে ফেরত আনা**। |
+| **Non-Interference** | হস্তক্ষেপ না করা | মনে রাখুন: **Non** (না) + **Interfere** (মাথা গলানো)। অর্থাৎ, **অন্যের বিষয়ে নাক না গলানো**। |
+| **Indo-Pacific** | ইন্দো-প্যাসিফিক (ভারত ও প্রশান্ত মহাসাগরীয় অঞ্চল) | মনে রাখুন: **ভারতের** (Indo) + **প্রশান্ত মহাসাগরের** (Pacific) আশেপাশের অঞ্চল। বর্তমান ভূ-রাজনীতির কেন্দ্র। |
+
+---
+
+### 2. Easy-to-Remember Tricks (সহজে মনে রাখার কৌশল)
+
+| Topic (বিষয়) | Easy Trick / Mnemonic (সহজ কৌশল / সূত্র) |
+| :--- | :--- |
+| **Principles of Foreign Policy (Article 25)** | **A P P N C** সূত্র (বাংলা বা ইংরেজি শব্দ দিয়ে সাজানো) |
+| **P**eaceful Settlement (শান্তিপূর্ণ সমাধান) |
+| **A**nti-Colonialism/Imperialism (উপনিবেশ-বিরোধিতা) |
+| **P**eople's Right to Choose (জনগণের আত্মনিয়ন্ত্রণ) |
+| **N**on-Interference & Sovereignty (হস্তক্ষেপ না করা ও সার্বভৌমত্ব) |
+| **C**o-existence/Friendship to All (সহাবস্থান ও বন্ধুত্ব) |
+| **Rohingya Crisis Diplomacy** | **3 R's** **(তিন 'র' / ৩ টি প)** কৌশল |
+| **R**epatriation (প্রত্যাবাসন) |
+| **R**elief (ত্রাণ/সাহায্য) |
+| **R**econciliation/Resolution (মীমাংসা/সমাধান) |
+| **Foreign Policy Successes (Mujib vs. Zia)** | **'M' and 'Z' Formula** (M এবং Z সূত্র) |
+| **M**ujib: Focus on **M**ultilateral **M**embership (UN) and **M**aintaining core **M**oral principles (সকলের সাথে বন্ধুত্ব)। |
+| **Z**ia: Focus on **Z**ealous **Z**onal (Regional) cooperation (**SAARC**) and **Z**enith of Islamic Ties (**OIC**)। |
+| **Challenges (Current)** | **G C E R** (জিসিয়ার) সূত্র |
+| **G**eopolitics (ভূ-রাজনীতিতে ভারসাম্য) |
+| **C**limate Change (জলবায়ু পরিবর্তন) |
+| **E**conomic Pressure (অর্থনৈতিক চাপ) |
+| **R**ohingya Repatriation (রোহিঙ্গা প্রত্যাবাসন) |
