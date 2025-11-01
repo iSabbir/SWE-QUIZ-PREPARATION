@@ -28,11 +28,17 @@ iv. The passage mentions that New York City has the best urban parks in the worl
 **b) Select the correct information from the passage to complete the sentences below. [6x0.5=3]**
 
 i. Green spaces are essential for the _______________ of the population.
+
 ii. These natural environments help to lower stress and improve mental _______________.
+
 iii. Trees and plants help reduce the urban _______________ effect by providing shade.
+
 iv. One challenge in creating parks is that land is often _______________ in cities.
+
 v. Overcoming these obstacles requires a _______________ effort from communities and planners.
+
 vi. The long-term value of green spaces _______________ the initial investment.
+
 
 **2. a) Identify an appropriate article (a/an/the/put cross for no article) to fill in the gaps. [10x0.5=5]**
 
