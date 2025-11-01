@@ -21,18 +21,28 @@ Addressing this crisis requires a multi-faceted approach. The principle of the "
 **1. a) Classify the following statements as Yes/No/Not Given based on your reading of the passage. [4x1=4]**
 
 i. The durability of plastic is presented as solely a negative feature.
+
 ii. Over 8 million tons of plastic enter the ocean each year.
+
 iii. Recycling is the most effective solution to plastic pollution.
+
 iv. The passage claims that paper bags are the best alternative to plastic bags.
+
 
 **b) Select the correct information from the passage to complete the sentences below. [6x0.5=3]**
 
 i. Plastic pollution is one of the most pressing _______________ challenges of our time.
+
 ii. A primary reason plastic is so harmful is because it does not easily _______________.
+
 iii. Tiny fragments known as _______________ can contaminate soil and water.
+
 iv. The three R's stand for Reduce, Reuse, and _______________.
+
 v. Governments can play a role by implementing policies like banning _______________ plastics.
+
 vi. Solving this global issue requires a _______________ effort from everyone.
+
 
 **2. a) Identify an appropriate article (a/an/the/put cross for no article) to fill in the gaps. [10x0.5=5]**
 
