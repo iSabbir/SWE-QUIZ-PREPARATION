@@ -20,18 +20,28 @@ Experts generally recommend that adults get between 7 to 9 hours of sleep per ni
 **1. a) Classify the following statements as Yes/No/Not Given based on your reading of the passage. [4x1=4]**
 
 i. Sleep is more important for survival than eating and breathing.
+
 ii. According to the passage, the brain clears out toxins during sleep.
+
 iii. The passage suggests that all adults need exactly 8 hours of sleep.
+
 iv. Lack of sleep can negatively affect a person's mood.
+
 
 **b) Select the correct information from the passage to complete the sentences below. [6x0.5=3]**
 
 i. Sleep is often viewed as a _______________ rather than a necessity in our world.
+
 ii. During sleep, the body undergoes critical processes of repair and _______________.
+
 iii. Adequate sleep strengthens the _______________ system, making the body more resilient.
+
 iv. The brain processes and stores information from the day, a process known as memory _______________.
+
 v. It is advisable to avoid _______________ like caffeine before bed.
+
 vi. The blue light from screens can disrupt the body's natural _______________ cycle.
+
 
 **2. a) Identify an appropriate article (a/an/the/put cross for no article) to fill in the gaps. [10x0.5=5]**
 
@@ -40,10 +50,15 @@ My brother is **(i)** _______ architect. He designs beautiful houses. Currently,
 **b) Write the correct form of the verb in the brackets to complete the following sentences. [5x1=5]**
 
 i. The train _______________ (arrive) at the station at 7 PM every day.
+
 ii. I _______________ (wait) for you since this morning.
+
 iii. My sister _______________ (give) me a wonderful gift on my last birthday.
+
 iv. While they were playing football, it suddenly _______________ (start) to rain.
+
 v. He promised he _______________ (call) me as soon as he reached home.
+
 
 **3. Construct a paragraph on one of the following topics. [1x8=8]**
 
