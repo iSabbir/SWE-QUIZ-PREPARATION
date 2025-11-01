@@ -47,10 +47,15 @@ I have **(i)** _______ dog named Max. He is **(ii)** _______ very playful Golden
 **b) Write the correct form of the verb in the brackets to complete the following sentences. [5x1=5]**
 
 i. She _______________ (travel) to many countries since she started her job.
+
 ii. My father _______________ (read) the newspaper every morning.
+
 iii. They _______________ (build) a new bridge in the city last year.
+
 iv. Listen! Someone _______________ (play) the piano beautifully.
+
 v. When I arrived, my friends _______________ (already/leave) the cafe.
+
 
 **3. Construct a paragraph on one of the following topics. [1x8=8]**
 
