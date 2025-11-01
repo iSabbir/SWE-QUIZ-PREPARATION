@@ -51,10 +51,15 @@ I was walking through **(i)** _______ busy market yesterday when I saw **(ii)** 
 **b) Write the correct form of the verb in the brackets to complete the following sentences. [5x1=5]**
 
 i. He _______________ (finish) his work before he went to the party.
+
 ii. The Earth _______________ (revolve) around the Sun.
+
 iii. Be quiet! I think the baby _______________ (sleep).
+
 iv. My brother _______________ (not see) that movie yet.
+
 v. We _______________ (go) to the beach last weekend.
+
 
 **3. Construct a paragraph on one of the following topics. [1x8=8]**
 
