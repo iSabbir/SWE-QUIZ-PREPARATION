@@ -1,4 +1,4 @@
-### "Uploaded By Sabbir"
+# Uploaded By Sabbir
 
 ### DIU QUESTION BANK
 
