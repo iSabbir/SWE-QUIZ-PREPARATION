@@ -6,7 +6,7 @@
 
 ---
 
-*Student:** May I come in, Professor?
+**Student:** May I come in, Professor?
 
 **Teacher:** Yes, please. What is it?
 
