@@ -103,7 +103,7 @@ description: "A short dialogue between a student and the Language Centre Directo
 
 **Director:** Because we must help the students with scores below 60% first. This is our rule every year.
 
-**Student:** I see. But sir, can't you make an exception for me?
+**Student:** I understand, sir. But, can't you make an exception for me?
 
 **Director:** Umm... I can put your name on the waiting list. If there are free places in week 3, I will contact you. Someone with 61% has higher priority than someone with 67%, so you may get a place.
 
