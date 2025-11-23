@@ -79,6 +79,10 @@ description: "A short dialogue between a student and the Language Centre Directo
 ---
 
 ## Plain transcript (Markdown)
+**Student:** May I come in, Sir?
+
+**Director:** Yes please. what is it?
+
 **Student:** Hello sir, I’m sorry to bother you, but I wanted to ask about the English courses.
 
 **Director:** That’s fine. What is the problem?
