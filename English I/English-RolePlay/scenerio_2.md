@@ -87,7 +87,7 @@ description: "A short dialogue between a student and the Language Centre Directo
 
 **Director:** That’s fine. What is the problem?
 
-**Student:** I am worried about my English level. Everyone else on my class is a native speaker, so I feel I am at a disadvantage.
+**Student:** I am worried about my English level. Everyone else on my course is a native speaker, so I feel I am at a disadvantage.
 
 **Director:** I see. But your scores are above 60%. The problem is that we must give priority to the other students with lower scores.
 
