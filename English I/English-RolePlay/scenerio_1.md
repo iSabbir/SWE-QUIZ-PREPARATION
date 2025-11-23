@@ -75,7 +75,7 @@ description: "A formal dialogue between a student and a professor regarding a re
 
 ## Plain transcript (Markdown)
 
-**Student:** May I come in, Professor?  
+**Student:** May I come in, Sir?  
 **Teacher:** Yes, please. What is it?  
 **Student:** I would like to ask if I could have more time to finish my essay, maybe until Monday.  
 **Teacher:** The essay is due tomorrow. Why do you need more time?  
