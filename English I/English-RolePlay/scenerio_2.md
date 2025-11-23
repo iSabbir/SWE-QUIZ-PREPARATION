@@ -83,15 +83,15 @@ description: "A short dialogue between a student and the Language Centre Directo
 
 **Director:** Yes please. what is it?
 
-**Student:** Hello sir, I’m sorry to bother you, but I wanted to ask about the English courses.
+**Student:** Hello sir, I wanted to ask about the English courses.
 
 **Director:** That’s fine. What is the problem?
 
-**Student:** I am a bit worried about my English level. Everyone else on my course is a native speaker, so I feel I am at a disadvantage.
+**Student:** I am worried about my English level. Everyone else on my course is a native speaker, so I feel I am at a disadvantage.
 
-**Director:** I see. But your scores are all above 60%. The problem is that we must give priority to students with lower scores.
+**Director:** I see. But your scores are above 60%. The problem is that we must give priority to the other students with lower scores.
 
-**Student:** Yes, I understand. But I really don’t feel my English is good enough. I only got just over 60. In my home country I usually get over 80%. I want to improve more, especially before classes get difficult.
+**Student:** Yes sir, I understand. But I really don’t feel my English is good enough. I only got over 60 and I am not sure about my progress.
 
 **Director:** Have you any reason to think you have serious language problems?
 
@@ -99,17 +99,13 @@ description: "A short dialogue between a student and the Language Centre Directo
 
 **Director:** I understand your worry. But this year many students need the classes, so the places are very limited.
 
-**Student:** Then why can’t I have a place, even if my score is a little higher?
+**Student:** Then why can’t I have a place even if my score is a bit higher?
 
 **Director:** Because we must help the students with scores below 60% first. This is our rule every year.
 
-**Student:** I see. Is there anything else I can do?
+**Student:** I see. But sir, can't you make an exception for me?
 
-**Director:** Yes. Instead of coming to classes, why not join our self-study sessions in the Language Centre? We have listening rooms, reading practice, writing support, and teachers who can give advice.
-
-**Student:** That sounds helpful.
-
-**Director:** Also, I can put your name on the waiting list. If there are free places in week 3, I will contact you. Someone with 61% has higher priority than someone with 67%, so you may get a place.
+**Director:** Umm... I can put your name on the waiting list. If there are free places in week 3, I will contact you. Someone with 61% has higher priority than someone with 67%, so you may get a place.
 
 **Student:** Thank you, sir. I appreciate your help.
 
