@@ -110,3 +110,5 @@ description: "A short dialogue between a student and the Language Centre Directo
 **Student:** Thank you, sir. I appreciate your help.
 
 **Director:** You’re welcome. I think you should try the self-study for now, and we will see if a place opens later.
+
+**Student:** Sure, sir. Thank you again. Goodbye!
