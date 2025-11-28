@@ -1,4 +1,4 @@
-# Topic 02: Function Point (FP) Calculation - Online Library Management System
+# Topic 02: Function Point (FP) Estimation - Online Library Management System
 
 A medium-sized Online Library System is being developed. It will manage book borrowing, searching, digital member profiles, notifications, and librarian dashboards.
 
