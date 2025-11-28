@@ -2,7 +2,7 @@
 
 Use the information given in the table below:
 
-| Project Class | aᵦ | bᵦ  | cᵦ | dᵦ  |
+| Project Class | aᵢ | bᵢ  | cᵢ | dᵢ  |
 | ------------- | --- | ---- | --- | ---- |
 | Organic       | 2.4 | 1.05 | 2.5 | 0.38 |
 | Semidetached  | 3.0 | 1.12 | 2.5 | 0.38 |
