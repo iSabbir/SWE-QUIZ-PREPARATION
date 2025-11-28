@@ -1,4 +1,4 @@
-# Topic 02: Intermediate COCOMO - Hospital Information System
+# Topic 04: Intermediate COCOMO - Hospital Information System
 
 Use the information given in the table below:
 
