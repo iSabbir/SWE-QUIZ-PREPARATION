@@ -1,4 +1,4 @@
-# Topic 02: Function Point (FP) Calculation - Online Hotel Reservation System
+# Topic 02: Function Point (FP) Estimation - Online Hotel Reservation System
 
 An Online Hotel Reservation System allows customers to search rooms, check availability, book rooms, cancel bookings, and view booking history. The system also interacts with external payment gateways and hotel management dashboards.
 
