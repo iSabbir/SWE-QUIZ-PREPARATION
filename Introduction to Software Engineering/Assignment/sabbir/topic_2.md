@@ -1,4 +1,4 @@
-# Topic 02: Function Point (FP) Calculation - Mobile Banking Application
+# Topic 02: Function Point (FP) Estimation - Mobile Banking Application
 
 A Mobile Banking Application is being developed for a commercial bank. The app supports user login, balance inquiry, fund transfer, transaction history, bill payment, and notifications. It interacts with core banking systems and third-party biller services.
 
