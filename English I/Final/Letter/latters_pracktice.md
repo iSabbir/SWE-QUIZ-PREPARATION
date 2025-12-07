@@ -13,6 +13,7 @@ I reported the issue twice to the reception desk, but no effective solution was 
 I kindly request a partial refund of my room charges and an assurance that better soundproofing or stricter noise control will be implemented.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -30,6 +31,7 @@ Due to this, we felt uncomfortable eating the meal and had to leave earlier than
 I would appreciate it if you could investigate this matter, ensure better quality control in your kitchen and provide us with a voucher or compensation so that we may give your restaurant another chance.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -47,6 +49,7 @@ I kindly request that you block this card immediately to prevent any unauthorise
 Thank you for your prompt attention to this matter.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -66,6 +69,7 @@ Please let me know if any additional documents are required to support my reques
 Thank you for your consideration.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -85,6 +89,7 @@ If this matter is not resolved promptly, I may be forced to contact the local ho
 Thank you for your prompt attention.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -104,6 +109,7 @@ I request that you locate and deliver my luggage as soon as possible and reimbur
 I look forward to your swift response.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -123,6 +129,7 @@ I have attached my curriculum vitae and academic transcripts for your considerat
 Thank you for your time.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -142,6 +149,7 @@ I kindly request that the council organise a thorough cleaning of the park, repa
 Thank you for considering this request.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -159,6 +167,7 @@ Furthermore, I would appreciate details regarding your opening hours, availabili
 I look forward to receiving your response so that I can complete the membership process at the earliest.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -176,6 +185,7 @@ As a working professional, I joined this course to improve my communication skil
 Therefore, I kindly request a full refund of the course fee. I would also suggest that you improve your communication with students regarding any changes in schedule.
 
 Yours faithfully,
+
 SABBIR
 
 ---
@@ -195,6 +205,7 @@ Next time you’re free, come over to my place and we can work on your project t
 Take care and stay in touch!
 
 Warm wishes,
+
 SABBIR
 
 ---
@@ -212,6 +223,7 @@ It has been a long time since we last met, and I really miss our crazy conversat
 Let me know if you need directions or want to come together from campus.
 
 Best regards,
+
 SABBIR
 
 ---
@@ -229,6 +241,7 @@ How have you been? I saw some of your photos on social media and it looks like y
 From now on, I’ll try to message you more regularly. Our friendship means a lot to me.
 
 Warm wishes,
+
 SABBIR
 
 ---
@@ -248,6 +261,7 @@ You should definitely visit when you get a break from your studies. I’d love t
 Take care and write back soon.
 
 Best regards,
+
 SABBIR
 
 ---
@@ -282,6 +296,7 @@ It has been almost a year since we last met, and I really miss our late-night ch
 I hope you can make it. It would be the perfect way to end this year.
 
 Best regards,
+
 SABBIR
 
 ---
@@ -299,6 +314,7 @@ If you ever come to my city, my home is always open for you. I’ll try my best 
 Keep in touch and send my regards to your family.
 
 Warm wishes,
+
 SABBIR
 
 ---
@@ -316,6 +332,7 @@ How did your exams go? I know you were also stressed about yours. I hope you got
 Let’s plan a small celebration this weekend. Maybe we can go for ice cream or just hang out at our usual spot.
 
 Best regards,
+
 SABBIR
 
 ---
@@ -335,6 +352,7 @@ If you want, we can sit together online this weekend and plan your schedule. I�
 Take care of yourself.
 
 Warm wishes,
+
 SABBIR
 
 ---
@@ -352,6 +370,7 @@ Since you said you wanted to learn web design, why don’t we join it together? 
 Let me know what you think. If you’re interested, I’ll send you the link.
 
 Best regards,
+
 SABBIR
 
 ---
