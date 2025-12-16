@@ -25,7 +25,7 @@ Thank you for your attention to this important matter.
 
 Yours faithfully,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -53,7 +53,7 @@ We look forward to your prompt response and a swift resolution.
 
 Yours faithfully,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -79,7 +79,7 @@ Thank you for considering my application. I have attached my resume for your rev
 
 Yours sincerely,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -105,7 +105,7 @@ I urge you to reconsider the plan for demolition and work with the community to 
 
 Yours faithfully,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -131,7 +131,7 @@ I have attached copies of both the original and newly purchased tickets. I look 
 
 Yours faithfully,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -146,7 +146,7 @@ London, UK
 
 Dear Sir/Madam,
 
-My name is [Your Name], and I am a student from Bangladesh currently enrolled in your International Business course, which started last week. I am writing to report a serious issue with the accommodation that was arranged for me by your program at 15 Park Road.
+My name is SABBIR, and I am a student from Bangladesh currently enrolled in your International Business course, which started last week. I am writing to report a serious issue with the accommodation that was arranged for me by your program at 15 Park Road.
 
 The primary problem is that the accommodation is in a state of disrepair. The heating system is not working, and with the cold weather, the room is uninhabitable. Additionally, the shared kitchen facilities are unhygienic, and there is a significant mold problem in the bathroom. This is a serious health and safety concern and is making it very difficult for me to settle in and focus on my studies.
 
@@ -158,7 +158,7 @@ Thank you for your immediate attention to this issue.
 
 Yours sincerely,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -166,7 +166,7 @@ Yours sincerely,
 
 ### 1. Letter to a Friend about a Sports Match
 
-Hey [Friend's Name],
+Hey Nafis,
 
 Hope you're recovering well and not feeling too down about missing the game last Saturday. We definitely missed having you on the field.
 
@@ -180,13 +180,13 @@ Rest up and take it easy. Let me know if you need anything.
 
 Best,
 
-[Your Name]
+SABBIR
 
 ---
 
 ### 2. Letter to a Friend about a Business Offer
 
-Hi [Friend's Name],
+Hi Nafis,
 
 Thanks so much for the letter and for thinking of me as a partner for your new business. I was so excited to read about your idea, and I have to say, I've been thinking about it nonstop ever since.
 
@@ -200,13 +200,13 @@ Please don't be discouraged! You have an amazing plan, and I'll be your number o
 
 All the best,
 
-[Your Name]
+SABBIR
 
 ---
 
 ### 3. Letter to a Friend Recommending a Holiday Destination
 
-Hey [Friend's Name],
+Hey Nafis,
 
 Great to hear from you! It's so exciting that you're planning a holiday. You asked for a recommendation, and I immediately thought of the trip I took to Saint Martin's Island in Bangladesh last year. It was incredible, and I think you'd love it.
 
@@ -218,7 +218,7 @@ Hope this helps you make a decision! Let me know what you think.
 
 Cheers,
 
-[Your Name]
+SABBIR
 
 ---
 
@@ -238,13 +238,13 @@ Again, I'm really sorry for my carelessness.
 
 Best wishes,
 
-[Your Name]
+SABBIR
 
 ---
 
 ### 5. Letter to a Friend with Tour Recommendations
 
-Hey [Friend's Name],
+Hey Debapriya,
 
 It was great to get your letter and hear that your cousins are coming to visit next week! That's awesome news. I'd be happy to give you some recommendations for their tour of the area.
 
@@ -258,13 +258,13 @@ Hope they have a fantastic trip!
 
 Best,
 
-[Your Name]
+SABBIR
 
 ---
 
 ### 6. Letter to a Friend Offering Holiday Advice
 
-Hi [Friend's Name],
+Hi Debapriya,
 
 I was so happy to get your letter and hear that you're planning to spend two weeks in my region! I'm already looking forward to you coming.
 
@@ -278,4 +278,4 @@ Just let me know your travel dates, and we can start planning everything. I'm so
 
 Best wishes,
 
-[Your Name]
+SABBIR
