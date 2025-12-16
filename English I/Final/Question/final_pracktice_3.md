@@ -107,11 +107,17 @@ v.  What prize did she receive in 2014?
 **3. a) Write the correct form of the verbs in the brackets to complete the following conditional sentences.** [6x0.5=3]
 
 i.   If you (mix) ______ blue and yellow, you get green. (Zero Conditional)
+
 ii.  If I see him, I (give) ______ him the message. (First Conditional)
+
 iii. If I had a car, I (drive) ______ to the beach every weekend. (Second Conditional)
+
 iv.  If we (know) ______ about the traffic, we would have left earlier. (Third Conditional)
+
 v.   You will fail the course if you (not submit) ______ the assignment. (First Conditional)
+
 vi.  If I were you, I (accept) ______ the job offer. (Second Conditional)
+
 
 **3. b) Identify if the following sentences are Fragment, Run-on, or Complete. If the sentence is a Fragment or Run-on, rewrite it to fix the error.** [7x1=7]
 
