@@ -166,7 +166,7 @@ Yours sincerely,
 
 ### 1. Letter to a Friend about a Sports Match
 
-Hey [Friend's Name],
+Hey Nafis,
 
 Hope you're recovering well and not feeling too down about missing the game last Saturday. We definitely missed having you on the field.
 
@@ -180,13 +180,13 @@ Rest up and take it easy. Let me know if you need anything.
 
 Best,
 
-[Your Name]
+Sabbir
 
 ---
 
 ### 2. Letter to a Friend about a Business Offer
 
-Hi [Friend's Name],
+Hi Nafis,
 
 Thanks so much for the letter and for thinking of me as a partner for your new business. I was so excited to read about your idea, and I have to say, I've been thinking about it nonstop ever since.
 
@@ -200,13 +200,13 @@ Please don't be discouraged! You have an amazing plan, and I'll be your number o
 
 All the best,
 
-[Your Name]
+Sabbir
 
 ---
 
 ### 3. Letter to a Friend Recommending a Holiday Destination
 
-Hey [Friend's Name],
+Hey Nafis,
 
 Great to hear from you! It's so exciting that you're planning a holiday. You asked for a recommendation, and I immediately thought of the trip I took to Saint Martin's Island in Bangladesh last year. It was incredible, and I think you'd love it.
 
@@ -218,13 +218,13 @@ Hope this helps you make a decision! Let me know what you think.
 
 Cheers,
 
-[Your Name]
+Sabbir
 
 ---
 
 ### 4. Letter to a Classmate about a Borrowed Book
 
-Hi [Classmate's Name],
+Hi Nafis,
 
 I hope you had a great holiday and a safe trip back home.
 
@@ -238,13 +238,13 @@ Again, I'm really sorry for my carelessness.
 
 Best wishes,
 
-[Your Name]
+Sabbir
 
 ---
 
 ### 5. Letter to a Friend with Tour Recommendations
 
-Hey [Friend's Name],
+Hey Nafis,
 
 It was great to get your letter and hear that your cousins are coming to visit next week! That's awesome news. I'd be happy to give you some recommendations for their tour of the area.
 
@@ -258,13 +258,13 @@ Hope they have a fantastic trip!
 
 Best,
 
-[Your Name]
+Sabbir
 
 ---
 
 ### 6. Letter to a Friend Offering Holiday Advice
 
-Hi [Friend's Name],
+Hi Nafis,
 
 I was so happy to get your letter and hear that you're planning to spend two weeks in my region! I'm already looking forward to you coming.
 
@@ -278,4 +278,4 @@ Just let me know your travel dates, and we can start planning everything. I'm so
 
 Best wishes,
 
-[Your Name]
+Sabbir
