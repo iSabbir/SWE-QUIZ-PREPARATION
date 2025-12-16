@@ -441,18 +441,21 @@ vii. Complete
 
 ---
 
+# ✅ **SET–11 : Part–2 Grammar (10 Marks)**
 
-✅ SET–11 : Part–2 Grammar (10 Marks)
-Part C: Grammar
-3. a)
-i. If you (drop) ______ ice, it breaks. (Zero Conditional)
-ii. If I (know) ______ the solution, I would explain it. (Second Conditional)
-iii. If she (practice) ______ daily, she will improve. (First Conditional)
-iv. If they had arrived earlier, they (get) ______ seats. (Third Conditional)
-v. I (help) ______ you if you tell me the truth. (First Conditional)
-vi. If he were serious, he (work) ______ harder. (Second Conditional)
+## Part C: Grammar
 
-3. b)
+### **3. a)**
+
+i. If you (drop) ______ ice, it breaks. *(Zero Conditional)*
+ii. If I (know) ______ the solution, I would explain it. *(Second Conditional)*
+iii. If she (practice) ______ daily, she will improve. *(First Conditional)*
+iv. If they had arrived earlier, they (get) ______ seats. *(Third Conditional)*
+v. I (help) ______ you if you tell me the truth. *(First Conditional)*
+vi. If he were serious, he (work) ______ harder. *(Second Conditional)*
+
+### **3. b)**
+
 i. Because the lights were off.
 ii. He entered the room everyone looked at him.
 iii. She sings beautifully.
@@ -461,34 +464,44 @@ v. I like coffee I drink it daily.
 vi. After the speech ended.
 vii. He was nervous, but he spoke clearly.
 
+---
 
-✅ Answers
-3(a): drop, knew, practices, would have got, will help, would work
+## ✅ **Answers with Bangla Explanation**
 
-3(b):
-i. Fragment → Because the lights were off, we waited.
-ii. Run-on → He entered the room, and everyone looked at him.
-iii. Complete
-iv. Fragment → I was waiting near the gate.
-v. Run-on → I like coffee, and I drink it daily.
-vi. Fragment → After the speech ended, people clapped.
-vii. Complete
+### **3(a) Answers**
 
-Bangla Explanation:
+**drop, knew, practices, would have got, will help, would work**
 
-কারণ দিয়ে শুরু হলে main clause না থাকলে → Fragment
-দুইটা independent clause comma/connector ছাড়া হলে → Run-on
+### **3(b) Answers**
 
-✅ SET–12
-3. a)
-i. If you (press) ______ a button, the machine starts. (Zero)
-ii. If I (be) ______ free now, I would help you. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had informed earlier, we (prepare) ______ better. (Third)
-v. I (call) ______ you if I get the chance. (First)
-vi. If they were united, they (solve) ______ the problem. (Second)
+i. **Fragment** → Because the lights were off, we waited.
+ii. **Run-on** → He entered the room, and everyone looked at him.
+iii. **Complete**
+iv. **Fragment** → I was waiting near the gate.
+v. **Run-on** → I like coffee, and I drink it daily.
+vi. **Fragment** → After the speech ended, people clapped.
+vii. **Complete**
 
-3. b)
+### **Bangla Explanation**
+
+* **কারণ দিয়ে শুরু হলে main clause না থাকলে → Fragment**
+* **দুইটা independent clause comma/connector ছাড়া হলে → Run-on**
+
+---
+
+# ✅ **SET–12**
+
+### **3. a)**
+
+i. If you (press) ______ a button, the machine starts. *(Zero)*
+ii. If I (be) ______ free now, I would help you. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had informed earlier, we (prepare) ______ better. *(Third)*
+v. I (call) ______ you if I get the chance. *(First)*
+vi. If they were united, they (solve) ______ the problem. *(Second)*
+
+### **3. b)**
+
 i. Because the door was locked.
 ii. I needed help I called my brother.
 iii. He is very punctual.
@@ -497,30 +510,39 @@ v. I enjoy movies I watch them weekly.
 vi. After the class finished.
 vii. She was sick, yet she attended class.
 
+---
 
-✅ Answers
-3(a): press, were, listens, would have prepared, will call, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the door was locked, we waited outside.
-ii. Run-on → I needed help, so I called my brother.
-iii. Complete
-iv. Fragment → I was sitting alone in the room.
-v. Run-on → I enjoy movies, and I watch them weekly.
-vi. Fragment → After the class finished, students left.
-vii. Complete
+### **3(a)**
 
+**press, were, listens, would have prepared, will call, would solve**
 
-✅ SET–13
-3. a)
-i. If water (freeze) ______, it becomes solid. (Zero)
-ii. If I (have) ______ wings, I would fly. (Second)
-iii. If she (arrive) ______ early, she will meet the teacher. (First)
-iv. If they had trained harder, they (win) ______ the game. (Third)
-v. I (visit) ______ you if I go there. (First)
-vi. If he were confident, he (speak) ______ fluently. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the door was locked, we waited outside.
+ii. **Run-on** → I needed help, so I called my brother.
+iii. **Complete**
+iv. **Fragment** → I was sitting alone in the room.
+v. **Run-on** → I enjoy movies, and I watch them weekly.
+vi. **Fragment** → After the class finished, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–13**
+
+### **3. a)**
+
+i. If water (freeze) ______, it becomes solid. *(Zero)*
+ii. If I (have) ______ wings, I would fly. *(Second)*
+iii. If she (arrive) ______ early, she will meet the teacher. *(First)*
+iv. If they had trained harder, they (win) ______ the game. *(Third)*
+v. I (visit) ______ you if I go there. *(First)*
+vi. If he were confident, he (speak) ______ fluently. *(Second)*
+
+### **3. b)**
+
 i. Because the road was damaged.
 ii. He opened the window fresh air entered.
 iii. She writes very clearly.
@@ -529,30 +551,39 @@ v. I love music I play guitar.
 vi. After the rain stopped.
 vii. He felt weak, but he continued.
 
+---
 
-✅ Answers
-3(a): freezes, had, arrives, would have won, will visit, would speak
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the road was damaged, traffic stopped.
-ii. Run-on → He opened the window, and fresh air entered.
-iii. Complete
-iv. Fragment → I was waiting for the interview.
-v. Run-on → I love music, and I play guitar.
-vi. Fragment → After the rain stopped, we went out.
-vii. Complete
+### **3(a)**
 
+**freezes, had, arrives, would have won, will visit, would speak**
 
-✅ SET–14
-3. a)
-i. If you (mix) ______ oil and water, they don’t combine. (Zero)
-ii. If I (know) ______ the reason, I would explain it. (Second)
-iii. If he (try) ______ again, he will succeed. (First)
-iv. If she had followed advice, she (avoid) ______ trouble. (Third)
-v. I (send) ______ you the file if I finish work. (First)
-vi. If they were careful, they (prevent) ______ accidents. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the road was damaged, traffic stopped.
+ii. **Run-on** → He opened the window, and fresh air entered.
+iii. **Complete**
+iv. **Fragment** → I was waiting for the interview.
+v. **Run-on** → I love music, and I play guitar.
+vi. **Fragment** → After the rain stopped, we went out.
+vii. **Complete**
+
+---
+
+# ✅ **SET–14**
+
+### **3. a)**
+
+i. If you (mix) ______ oil and water, they don’t combine. *(Zero)*
+ii. If I (know) ______ the reason, I would explain it. *(Second)*
+iii. If he (try) ______ again, he will succeed. *(First)*
+iv. If she had followed advice, she (avoid) ______ trouble. *(Third)*
+v. I (send) ______ you the file if I finish work. *(First)*
+vi. If they were careful, they (prevent) ______ accidents. *(Second)*
+
+### **3. b)**
+
 i. Because the bus was late.
 ii. I felt tired I took rest.
 iii. He is very polite.
@@ -561,30 +592,39 @@ v. I like tea I prefer coffee.
 vi. After the meeting ended.
 vii. She was upset, yet she smiled.
 
+---
 
-✅ Answers
-3(a): mix, knew, tries, would have avoided, will send, would prevent
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the bus was late, we waited.
-ii. Run-on → I felt tired, so I took rest.
-iii. Complete
-iv. Fragment → I was standing outside the office.
-v. Run-on → I like tea, but I prefer coffee.
-vi. Fragment → After the meeting ended, we left.
-vii. Complete
+### **3(a)**
 
+**mix, knew, tries, would have avoided, will send, would prevent**
 
-✅ SET–15
-3. a)
-i. If you (touch) ______ fire, it burns. (Zero)
-ii. If I (be) ______ rich, I would donate money. (Second)
-iii. If she (read) ______ daily, she will gain knowledge. (First)
-iv. If we had checked earlier, we (find) ______ the error. (Third)
-v. I (help) ______ you if you need support. (First)
-vi. If he were attentive, he (understand) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the bus was late, we waited.
+ii. **Run-on** → I felt tired, so I took rest.
+iii. **Complete**
+iv. **Fragment** → I was standing outside the office.
+v. **Run-on** → I like tea, but I prefer coffee.
+vi. **Fragment** → After the meeting ended, we left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–15**
+
+### **3. a)**
+
+i. If you (touch) ______ fire, it burns. *(Zero)*
+ii. If I (be) ______ rich, I would donate money. *(Second)*
+iii. If she (read) ______ daily, she will gain knowledge. *(First)*
+iv. If we had checked earlier, we (find) ______ the error. *(Third)*
+v. I (help) ______ you if you need support. *(First)*
+vi. If he were attentive, he (understand) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the internet failed.
 ii. She cooked food everyone ate.
 iii. He plays chess well.
@@ -593,30 +633,39 @@ v. I like sports I play football.
 vi. After the bell rang.
 vii. He was scared, but he tried.
 
+---
 
-✅ Answers
-3(a): touch, were, reads, would have found, will help, would understand
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the internet failed, the class stopped.
-ii. Run-on → She cooked food, and everyone ate.
-iii. Complete
-iv. Fragment → I was waiting for my friend.
-v. Run-on → I like sports, and I play football.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
 
+**touch, were, reads, would have found, will help, would understand**
 
-✅ SET–16
-3. a)
-i. If you (add) ______ sugar, tea tastes sweet. (Zero)
-ii. If I (have) ______ time, I would travel. (Second)
-iii. If he (study) ______ sincerely, he will pass. (First)
-iv. If they had listened carefully, they (not make) ______ mistakes. (Third)
-v. I (reply) ______ if I get your message. (First)
-vi. If she were patient, she (solve) ______ the issue. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the internet failed, the class stopped.
+ii. **Run-on** → She cooked food, and everyone ate.
+iii. **Complete**
+iv. **Fragment** → I was waiting for my friend.
+v. **Run-on** → I like sports, and I play football.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
+
+---
+
+# ✅ **SET–16**
+
+### **3. a)**
+
+i. If you (add) ______ sugar, tea tastes sweet. *(Zero)*
+ii. If I (have) ______ time, I would travel. *(Second)*
+iii. If he (study) ______ sincerely, he will pass. *(First)*
+iv. If they had listened carefully, they (not make) ______ mistakes. *(Third)*
+v. I (reply) ______ if I get your message. *(First)*
+vi. If she were patient, she (solve) ______ the issue. *(Second)*
+
+### **3. b)**
+
 i. Because the weather was bad.
 ii. I woke up late I missed the bus.
 iii. She speaks confidently.
@@ -625,30 +674,39 @@ v. I enjoy reading I read novels.
 vi. After the match ended.
 vii. He was ill, yet he attended class.
 
+---
 
-✅ Answers
-3(a): add, had, studies, would not have made, will reply, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the weather was bad, we stayed home.
-ii. Run-on → I woke up late, so I missed the bus.
-iii. Complete
-iv. Fragment → I was sitting under the tree.
-v. Run-on → I enjoy reading, and I read novels.
-vi. Fragment → After the match ended, fans cheered.
-vii. Complete
+### **3(a)**
 
+**add, had, studies, would not have made, will reply, would solve**
 
-✅ SET–17
-3. a)
-i. If ice (melt) ______, it turns into water. (Zero)
-ii. If I (know) ______ the answer, I would respond. (Second)
-iii. If she (practice) ______ more, she will win. (First)
-iv. If he had prepared earlier, he (not panic) ______. (Third)
-v. I (visit) ______ you if I get leave. (First)
-vi. If they were focused, they (perform) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the weather was bad, we stayed home.
+ii. **Run-on** → I woke up late, so I missed the bus.
+iii. **Complete**
+iv. **Fragment** → I was sitting under the tree.
+v. **Run-on** → I enjoy reading, and I read novels.
+vi. **Fragment** → After the match ended, fans cheered.
+vii. **Complete**
+
+---
+
+# ✅ **SET–17**
+
+### **3. a)**
+
+i. If ice (melt) ______, it turns into water. *(Zero)*
+ii. If I (know) ______ the answer, I would respond. *(Second)*
+iii. If she (practice) ______ more, she will win. *(First)*
+iv. If he had prepared earlier, he (not panic) ______. *(Third)*
+v. I (visit) ______ you if I get leave. *(First)*
+vi. If they were focused, they (perform) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the gate was closed.
 ii. I was hungry I ordered food.
 iii. He works efficiently.
@@ -657,30 +715,39 @@ v. I like movies I watch them often.
 vi. After the program finished.
 vii. She was late, but she apologized.
 
+---
 
-✅ Answers
-3(a): melts, knew, practices, would not have panicked, will visit, would perform
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the gate was closed, we waited.
-ii. Run-on → I was hungry, so I ordered food.
-iii. Complete
-iv. Fragment → I was standing in the queue.
-v. Run-on → I like movies, and I watch them often.
-vi. Fragment → After the program finished, people left.
-vii. Complete
+### **3(a)**
 
+**melts, knew, practices, would not have panicked, will visit, would perform**
 
-✅ SET–18
-3. a)
-i. If you (boil) ______ water, it evaporates. (Zero)
-ii. If I (be) ______ taller, I would play basketball. (Second)
-iii. If he (arrive) ______ early, he will help us. (First)
-iv. If they had planned well, they (save) ______ money. (Third)
-v. I (share) ______ the news if I confirm it. (First)
-vi. If she were confident, she (present) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the gate was closed, we waited.
+ii. **Run-on** → I was hungry, so I ordered food.
+iii. **Complete**
+iv. **Fragment** → I was standing in the queue.
+v. **Run-on** → I like movies, and I watch them often.
+vi. **Fragment** → After the program finished, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–18**
+
+### **3. a)**
+
+i. If you (boil) ______ water, it evaporates. *(Zero)*
+ii. If I (be) ______ taller, I would play basketball. *(Second)*
+iii. If he (arrive) ______ early, he will help us. *(First)*
+iv. If they had planned well, they (save) ______ money. *(Third)*
+v. I (share) ______ the news if I confirm it. *(First)*
+vi. If she were confident, she (present) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the exam was postponed.
 ii. He studied hard he passed.
 iii. She dances gracefully.
@@ -689,30 +756,39 @@ v. I love cooking I try new recipes.
 vi. After the show ended.
 vii. He was tired, yet he smiled.
 
+---
 
-✅ Answers
-3(a): boil, were, arrives, would have saved, will share, would present
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the exam was postponed, students relaxed.
-ii. Run-on → He studied hard, so he passed.
-iii. Complete
-iv. Fragment → I was waiting for instructions.
-v. Run-on → I love cooking, and I try new recipes.
-vi. Fragment → After the show ended, people left.
-vii. Complete
+### **3(a)**
 
+**boil, were, arrives, would have saved, will share, would present**
 
-✅ SET–19
-3. a)
-i. If you (shake) ______ water, it spills. (Zero)
-ii. If I (have) ______ courage, I would speak. (Second)
-iii. If she (work) ______ hard, she will succeed. (First)
-iv. If he had listened, he (avoid) ______ mistakes. (Third)
-v. I (email) ______ you if I get updates. (First)
-vi. If they were calm, they (handle) ______ pressure. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the exam was postponed, students relaxed.
+ii. **Run-on** → He studied hard, so he passed.
+iii. **Complete**
+iv. **Fragment** → I was waiting for instructions.
+v. **Run-on** → I love cooking, and I try new recipes.
+vi. **Fragment** → After the show ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–19**
+
+### **3. a)**
+
+i. If you (shake) ______ water, it spills. *(Zero)*
+ii. If I (have) ______ courage, I would speak. *(Second)*
+iii. If she (work) ______ hard, she will succeed. *(First)*
+iv. If he had listened, he (avoid) ______ mistakes. *(Third)*
+v. I (email) ______ you if I get updates. *(First)*
+vi. If they were calm, they (handle) ______ pressure. *(Second)*
+
+### **3. b)**
+
 i. Because the train was delayed.
 ii. I felt bored I watched TV.
 iii. He learns quickly.
@@ -721,30 +797,39 @@ v. I like traveling I visit places.
 vi. After the lecture ended.
 vii. She was nervous, but she performed well.
 
+---
 
-✅ Answers
-3(a): shake, had, works, would have avoided, will email, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the train was delayed, we waited.
-ii. Run-on → I felt bored, so I watched TV.
-iii. Complete
-iv. Fragment → I was sitting beside the window.
-v. Run-on → I like traveling, and I visit places.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**shake, had, works, would have avoided, will email, would handle**
 
-✅ SET–20
-3. a)
-i. If you (touch) ______ ice, it feels cold. (Zero)
-ii. If I (know) ______ the truth, I would react. (Second)
-iii. If he (train) ______ properly, he will win. (First)
-iv. If we had saved money, we (buy) ______ a car. (Third)
-v. I (inform) ______ you if there is news. (First)
-vi. If she were careful, she (avoid) ______ errors. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the train was delayed, we waited.
+ii. **Run-on** → I felt bored, so I watched TV.
+iii. **Complete**
+iv. **Fragment** → I was sitting beside the window.
+v. **Run-on** → I like traveling, and I visit places.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–20**
+
+### **3. a)**
+
+i. If you (touch) ______ ice, it feels cold. *(Zero)*
+ii. If I (know) ______ the truth, I would react. *(Second)*
+iii. If he (train) ______ properly, he will win. *(First)*
+iv. If we had saved money, we (buy) ______ a car. *(Third)*
+v. I (inform) ______ you if there is news. *(First)*
+vi. If she were careful, she (avoid) ______ errors. *(Second)*
+
+### **3. b)**
+
 i. Because the shop closed early.
 ii. I needed help I asked my friend.
 iii. She teaches mathematics.
@@ -753,35 +838,41 @@ v. I like tea I drink it daily.
 vi. After the storm passed.
 vii. He was tired, yet he continued.
 
+---
 
-✅ Answers
-3(a): touch, knew, trains, would have bought, will inform, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop closed early, we returned.
-ii. Run-on → I needed help, so I asked my friend.
-iii. Complete
-iv. Fragment → I was waiting at the station.
-v. Run-on → I like tea, and I drink it daily.
-vi. Fragment → After the storm passed, life became normal.
-vii. Complete
+### **3(a)**
 
+**touch, knew, trains, would have bought, will inform, would avoid**
+
+### **3(b)**
+
+i. **Fragment** → Because the shop closed early, we returned.
+ii. **Run-on** → I needed help, so I asked my friend.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the station.
+v. **Run-on** → I like tea, and I drink it daily.
+vi. **Fragment** → After the storm passed, life became normal.
+vii. **Complete**
 
 ---
 
+# ✅ **SET–21 : Part–2 Grammar (10 Marks)**
 
+## Part C: Grammar
 
-✅ SET–21 : Part–2 Grammar (10 Marks)
-Part C: Grammar
-3. a)
-i. If you (heat) ______ iron, it expands. (Zero Conditional)
-ii. If I (have) ______ a bike, I would ride daily. (Second Conditional)
-iii. If she (listen) ______ carefully, she will understand. (First Conditional)
-iv. If they had worked harder, they (achieve) ______ success. (Third Conditional)
-v. I (visit) ______ you if I get free time. (First Conditional)
-vi. If he were honest, he (admit) ______ the mistake. (Second Conditional)
+### **3. a)**
 
-3. b)
+i. If you (heat) ______ iron, it expands. *(Zero Conditional)*
+ii. If I (have) ______ a bike, I would ride daily. *(Second Conditional)*
+iii. If she (listen) ______ carefully, she will understand. *(First Conditional)*
+iv. If they had worked harder, they (achieve) ______ success. *(Third Conditional)*
+v. I (visit) ______ you if I get free time. *(First Conditional)*
+vi. If he were honest, he (admit) ______ the mistake. *(Second Conditional)*
+
+### **3. b)**
+
 i. Because the road was flooded.
 ii. I finished dinner I went outside.
 iii. She speaks politely.
@@ -790,36 +881,46 @@ v. I enjoy music I listen daily.
 vi. After the class ended.
 vii. He was tired, but he continued.
 
+---
 
-✅ Answers & Bangla Explanation
-3(a): heat, had, listens, would have achieved, will visit, would admit
+## ✅ **Answers & Bangla Explanation**
 
-ব্যাখ্যা:
+### **3(a) Answers**
 
-Zero → scientific truth
-First → real future
-Second → imaginary present
-Third → past regret
-3(b):
-i. Fragment → Because the road was flooded, traffic stopped.
-ii. Run-on → I finished dinner, so I went outside.
-iii. Complete
-iv. Fragment → I was waiting for the teacher.
-v. Run-on → I enjoy music, and I listen daily.
-vi. Fragment → After the class ended, students left.
-vii. Complete
+**heat, had, listens, would have achieved, will visit, would admit**
 
+### **Bangla Explanation**
 
-✅ SET–22
-3. a)
-i. If you (freeze) ______ water, it becomes ice. (Zero)
-ii. If I (know) ______ the answer, I would help you. (Second)
-iii. If he (practice) ______ regularly, he will improve. (First)
-iv. If she had prepared well, she (not fail) ______. (Third)
-v. I (call) ______ you if I get the chance. (First)
-vi. If they were united, they (solve) ______ the problem. (Second)
+* **Zero** → scientific truth
+* **First** → real future
+* **Second** → imaginary present
+* **Third** → past regret
 
-3. b)
+### **3(b) Answers**
+
+i. **Fragment** → Because the road was flooded, traffic stopped.
+ii. **Run-on** → I finished dinner, so I went outside.
+iii. **Complete**
+iv. **Fragment** → I was waiting for the teacher.
+v. **Run-on** → I enjoy music, and I listen daily.
+vi. **Fragment** → After the class ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–22**
+
+### **3. a)**
+
+i. If you (freeze) ______ water, it becomes ice. *(Zero)*
+ii. If I (know) ______ the answer, I would help you. *(Second)*
+iii. If he (practice) ______ regularly, he will improve. *(First)*
+iv. If she had prepared well, she (not fail) ______. *(Third)*
+v. I (call) ______ you if I get the chance. *(First)*
+vi. If they were united, they (solve) ______ the problem. *(Second)*
+
+### **3. b)**
+
 i. Because the computer crashed.
 ii. She opened the door the room was empty.
 iii. He is very careful.
@@ -828,30 +929,39 @@ v. I like tea I prefer coffee.
 vi. After the bell rang.
 vii. She was nervous, yet she spoke well.
 
+---
 
-✅ Answers
-3(a): freeze, knew, practices, would not have failed, will call, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the computer crashed, work stopped.
-ii. Run-on → She opened the door, and the room was empty.
-iii. Complete
-iv. Fragment → I was standing in front of the office.
-v. Run-on → I like tea, but I prefer coffee.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
 
+**freeze, knew, practices, would not have failed, will call, would solve**
 
-✅ SET–23
-3. a)
-i. If you (mix) ______ sugar with water, it dissolves. (Zero)
-ii. If I (be) ______ free, I would join you. (Second)
-iii. If she (try) ______ again, she will succeed. (First)
-iv. If they had followed instructions, they (avoid) ______ errors. (Third)
-v. I (send) ______ you the details if I receive them. (First)
-vi. If he were confident, he (speak) ______ clearly. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the computer crashed, work stopped.
+ii. **Run-on** → She opened the door, and the room was empty.
+iii. **Complete**
+iv. **Fragment** → I was standing in front of the office.
+v. **Run-on** → I like tea, but I prefer coffee.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
+
+---
+
+# ✅ **SET–23**
+
+### **3. a)**
+
+i. If you (mix) ______ sugar with water, it dissolves. *(Zero)*
+ii. If I (be) ______ free, I would join you. *(Second)*
+iii. If she (try) ______ again, she will succeed. *(First)*
+iv. If they had followed instructions, they (avoid) ______ errors. *(Third)*
+v. I (send) ______ you the details if I receive them. *(First)*
+vi. If he were confident, he (speak) ______ clearly. *(Second)*
+
+### **3. b)**
+
 i. Because the weather was bad.
 ii. I wanted rest I went home.
 iii. She works sincerely.
@@ -860,30 +970,39 @@ v. I enjoy movies I watch weekly.
 vi. After the show ended.
 vii. He was weak, but he tried.
 
+---
 
-✅ Answers
-3(a): mix, were, tries, would have avoided, will send, would speak
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the weather was bad, we stayed home.
-ii. Run-on → I wanted rest, so I went home.
-iii. Complete
-iv. Fragment → I was waiting at the bus stop.
-v. Run-on → I enjoy movies, and I watch weekly.
-vi. Fragment → After the show ended, people left.
-vii. Complete
+### **3(a)**
 
+**mix, were, tries, would have avoided, will send, would speak**
 
-✅ SET–24
-3. a)
-i. If you (drop) ______ glass, it breaks. (Zero)
-ii. If I (have) ______ courage, I would speak up. (Second)
-iii. If he (study) ______ properly, he will pass. (First)
-iv. If we had checked earlier, we (find) ______ the mistake. (Third)
-v. I (help) ______ you if you ask me. (First)
-vi. If she were patient, she (handle) ______ stress better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the weather was bad, we stayed home.
+ii. **Run-on** → I wanted rest, so I went home.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the bus stop.
+v. **Run-on** → I enjoy movies, and I watch weekly.
+vi. **Fragment** → After the show ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–24**
+
+### **3. a)**
+
+i. If you (drop) ______ glass, it breaks. *(Zero)*
+ii. If I (have) ______ courage, I would speak up. *(Second)*
+iii. If he (study) ______ properly, he will pass. *(First)*
+iv. If we had checked earlier, we (find) ______ the mistake. *(Third)*
+v. I (help) ______ you if you ask me. *(First)*
+vi. If she were patient, she (handle) ______ stress better. *(Second)*
+
+### **3. b)**
+
 i. Because the lights went out.
 ii. I woke up late I missed the train.
 iii. He teaches science.
@@ -892,30 +1011,39 @@ v. I like reading I read novels.
 vi. After the meeting ended.
 vii. She was upset, yet she smiled.
 
+---
 
-✅ Answers
-3(a): drop, had, studies, would have found, will help, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the lights went out, the class stopped.
-ii. Run-on → I woke up late, so I missed the train.
-iii. Complete
-iv. Fragment → I was standing near the counter.
-v. Run-on → I like reading, and I read novels.
-vi. Fragment → After the meeting ended, we left.
-vii. Complete
+### **3(a)**
 
+**drop, had, studies, would have found, will help, would handle**
 
-✅ SET–25
-3. a)
-i. If you (touch) ______ fire, it burns. (Zero)
-ii. If I (know) ______ his number, I would call him. (Second)
-iii. If she (wake) ______ up early, she will arrive on time. (First)
-iv. If they had saved money, they (buy) ______ a house. (Third)
-v. I (reply) ______ if I get your message. (First)
-vi. If he were careful, he (avoid) ______ mistakes. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the lights went out, the class stopped.
+ii. **Run-on** → I woke up late, so I missed the train.
+iii. **Complete**
+iv. **Fragment** → I was standing near the counter.
+v. **Run-on** → I like reading, and I read novels.
+vi. **Fragment** → After the meeting ended, we left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–25**
+
+### **3. a)**
+
+i. If you (touch) ______ fire, it burns. *(Zero)*
+ii. If I (know) ______ his number, I would call him. *(Second)*
+iii. If she (wake) ______ up early, she will arrive on time. *(First)*
+iv. If they had saved money, they (buy) ______ a house. *(Third)*
+v. I (reply) ______ if I get your message. *(First)*
+vi. If he were careful, he (avoid) ______ mistakes. *(Second)*
+
+### **3. b)**
+
 i. Because the shop was closed.
 ii. I felt sleepy I drank coffee.
 iii. She dances well.
@@ -924,30 +1052,39 @@ v. I love music I sing daily.
 vi. After the lecture ended.
 vii. He was nervous, but he performed well.
 
+---
 
-✅ Answers
-3(a): touch, knew, wakes, would have bought, will reply, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop was closed, we returned.
-ii. Run-on → I felt sleepy, so I drank coffee.
-iii. Complete
-iv. Fragment → I was waiting for my turn.
-v. Run-on → I love music, and I sing daily.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**touch, knew, wakes, would have bought, will reply, would avoid**
 
-✅ SET–26
-3. a)
-i. If water (boil) ______, it evaporates. (Zero)
-ii. If I (be) ______ taller, I would join the team. (Second)
-iii. If he (arrive) ______ early, he will help us. (First)
-iv. If she had listened, she (not make) ______ mistakes. (Third)
-v. I (share) ______ the news if it is confirmed. (First)
-vi. If they were focused, they (perform) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the shop was closed, we returned.
+ii. **Run-on** → I felt sleepy, so I drank coffee.
+iii. **Complete**
+iv. **Fragment** → I was waiting for my turn.
+v. **Run-on** → I love music, and I sing daily.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–26**
+
+### **3. a)**
+
+i. If water (boil) ______, it evaporates. *(Zero)*
+ii. If I (be) ______ taller, I would join the team. *(Second)*
+iii. If he (arrive) ______ early, he will help us. *(First)*
+iv. If she had listened, she (not make) ______ mistakes. *(Third)*
+v. I (share) ______ the news if it is confirmed. *(First)*
+vi. If they were focused, they (perform) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the gate was locked.
 ii. I was hungry I ordered food.
 iii. He works efficiently.
@@ -956,30 +1093,39 @@ v. I like sports I play football.
 vi. After the match ended.
 vii. She was ill, yet she came.
 
+---
 
-✅ Answers
-3(a): boils, were, arrives, would not have made, will share, would perform
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the gate was locked, we waited.
-ii. Run-on → I was hungry, so I ordered food.
-iii. Complete
-iv. Fragment → I was standing under the tree.
-v. Run-on → I like sports, and I play football.
-vi. Fragment → After the match ended, fans cheered.
-vii. Complete
+### **3(a)**
 
+**boils, were, arrives, would not have made, will share, would perform**
 
-✅ SET–27
-3. a)
-i. If ice (melt) ______, it becomes water. (Zero)
-ii. If I (have) ______ more time, I would read books. (Second)
-iii. If she (practice) ______ daily, she will succeed. (First)
-iv. If he had followed advice, he (avoid) ______ trouble. (Third)
-v. I (email) ______ you if I get updates. (First)
-vi. If she were confident, she (speak) ______ publicly. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the gate was locked, we waited.
+ii. **Run-on** → I was hungry, so I ordered food.
+iii. **Complete**
+iv. **Fragment** → I was standing under the tree.
+v. **Run-on** → I like sports, and I play football.
+vi. **Fragment** → After the match ended, fans cheered.
+vii. **Complete**
+
+---
+
+# ✅ **SET–27**
+
+### **3. a)**
+
+i. If ice (melt) ______, it becomes water. *(Zero)*
+ii. If I (have) ______ more time, I would read books. *(Second)*
+iii. If she (practice) ______ daily, she will succeed. *(First)*
+iv. If he had followed advice, he (avoid) ______ trouble. *(Third)*
+v. I (email) ______ you if I get updates. *(First)*
+vi. If she were confident, she (speak) ______ publicly. *(Second)*
+
+### **3. b)**
+
 i. Because the train was late.
 ii. I needed help I called my friend.
 iii. She writes beautifully.
@@ -988,30 +1134,39 @@ v. I enjoy cooking I try recipes.
 vi. After the class finished.
 vii. He was tired, but he smiled.
 
+---
 
-✅ Answers
-3(a): melts, had, practices, would have avoided, will email, would speak
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the train was late, we waited.
-ii. Run-on → I needed help, so I called my friend.
-iii. Complete
-iv. Fragment → I was sitting beside the window.
-v. Run-on → I enjoy cooking, and I try recipes.
-vi. Fragment → After the class finished, students left.
-vii. Complete
+### **3(a)**
 
+**melts, had, practices, would have avoided, will email, would speak**
 
-✅ SET–28
-3. a)
-i. If you (add) ______ salt, food tastes salty. (Zero)
-ii. If I (know) ______ the truth, I would react differently. (Second)
-iii. If he (train) ______ hard, he will win. (First)
-iv. If we had planned earlier, we (save) ______ time. (Third)
-v. I (inform) ______ you if there is news. (First)
-vi. If they were calm, they (handle) ______ pressure. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the train was late, we waited.
+ii. **Run-on** → I needed help, so I called my friend.
+iii. **Complete**
+iv. **Fragment** → I was sitting beside the window.
+v. **Run-on** → I enjoy cooking, and I try recipes.
+vi. **Fragment** → After the class finished, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–28**
+
+### **3. a)**
+
+i. If you (add) ______ salt, food tastes salty. *(Zero)*
+ii. If I (know) ______ the truth, I would react differently. *(Second)*
+iii. If he (train) ______ hard, he will win. *(First)*
+iv. If we had planned earlier, we (save) ______ time. *(Third)*
+v. I (inform) ______ you if there is news. *(First)*
+vi. If they were calm, they (handle) ______ pressure. *(Second)*
+
+### **3. b)**
+
 i. Because the internet failed.
 ii. She studied hard she passed.
 iii. He learns quickly.
@@ -1020,30 +1175,39 @@ v. I like reading I read daily.
 vi. After the storm ended.
 vii. She was scared, yet she continued.
 
+---
 
-✅ Answers
-3(a): add, knew, trains, would have saved, will inform, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the internet failed, the class stopped.
-ii. Run-on → She studied hard, so she passed.
-iii. Complete
-iv. Fragment → I was waiting for instructions.
-v. Run-on → I like reading, and I read daily.
-vi. Fragment → After the storm ended, people came out.
-vii. Complete
+### **3(a)**
 
+**add, knew, trains, would have saved, will inform, would handle**
 
-✅ SET–29
-3. a)
-i. If you (shake) ______ a bottle, it spills. (Zero)
-ii. If I (be) ______ confident, I would speak freely. (Second)
-iii. If she (work) ______ hard, she will succeed. (First)
-iv. If they had listened carefully, they (not misunderstand) ______. (Third)
-v. I (call) ______ you if I reach home. (First)
-vi. If he were patient, he (solve) ______ the problem. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the internet failed, the class stopped.
+ii. **Run-on** → She studied hard, so she passed.
+iii. **Complete**
+iv. **Fragment** → I was waiting for instructions.
+v. **Run-on** → I like reading, and I read daily.
+vi. **Fragment** → After the storm ended, people came out.
+vii. **Complete**
+
+---
+
+# ✅ **SET–29**
+
+### **3. a)**
+
+i. If you (shake) ______ a bottle, it spills. *(Zero)*
+ii. If I (be) ______ confident, I would speak freely. *(Second)*
+iii. If she (work) ______ hard, she will succeed. *(First)*
+iv. If they had listened carefully, they (not misunderstand) ______. *(Third)*
+v. I (call) ______ you if I reach home. *(First)*
+vi. If he were patient, he (solve) ______ the problem. *(Second)*
+
+### **3. b)**
+
 i. Because the exam was postponed.
 ii. I felt bored I watched TV.
 iii. She teaches English.
@@ -1052,30 +1216,39 @@ v. I like traveling I visit places.
 vi. After the program ended.
 vii. He was late, but he apologized.
 
+---
 
-✅ Answers
-3(a): shake, were, works, would not have misunderstood, will call, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the exam was postponed, students relaxed.
-ii. Run-on → I felt bored, so I watched TV.
-iii. Complete
-iv. Fragment → I was sitting in the hall.
-v. Run-on → I like traveling, and I visit places.
-vi. Fragment → After the program ended, people left.
-vii. Complete
+### **3(a)**
 
+**shake, were, works, would not have misunderstood, will call, would solve**
 
-✅ SET–30
-3. a)
-i. If you (mix) ______ oil and water, they separate. (Zero)
-ii. If I (have) ______ money, I would buy a car. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had arrived earlier, she (catch) ______ the bus. (Third)
-v. I (send) ______ the report if I finish today. (First)
-vi. If they were careful, they (avoid) ______ danger. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the exam was postponed, students relaxed.
+ii. **Run-on** → I felt bored, so I watched TV.
+iii. **Complete**
+iv. **Fragment** → I was sitting in the hall.
+v. **Run-on** → I like traveling, and I visit places.
+vi. **Fragment** → After the program ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–30**
+
+### **3. a)**
+
+i. If you (mix) ______ oil and water, they separate. *(Zero)*
+ii. If I (have) ______ money, I would buy a car. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had arrived earlier, she (catch) ______ the bus. *(Third)*
+v. I (send) ______ the report if I finish today. *(First)*
+vi. If they were careful, they (avoid) ______ danger. *(Second)*
+
+### **3. b)**
+
 i. Because the power went out.
 ii. I wanted success I worked hard.
 iii. He speaks fluently.
@@ -1084,35 +1257,41 @@ v. I love sports I play daily.
 vi. After the bell rang.
 vii. She was nervous, yet she smiled.
 
+---
 
-✅ Answers
-3(a): mix, had, listens, would have caught, will send, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the power went out, work stopped.
-ii. Run-on → I wanted success, so I worked hard.
-iii. Complete
-iv. Fragment → I was waiting outside the room.
-v. Run-on → I love sports, and I play daily.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
 
+**mix, had, listens, would have caught, will send, would avoid**
+
+### **3(b)**
+
+i. **Fragment** → Because the power went out, work stopped.
+ii. **Run-on** → I wanted success, so I worked hard.
+iii. **Complete**
+iv. **Fragment** → I was waiting outside the room.
+v. **Run-on** → I love sports, and I play daily.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
 
 ---
 
+# ✅ **SET–31 : Part–2 Grammar (10 Marks)**
 
+## Part C: Grammar
 
-✅ SET–31 : Part–2 Grammar (10 Marks)
-Part C: Grammar
-3. a)
-i. If you (press) ______ the switch, the fan starts. (Zero Conditional)
-ii. If I (be) ______ stronger, I would lift it. (Second Conditional)
-iii. If she (follow) ______ the rules, she will stay safe. (First Conditional)
-iv. If they had left earlier, they (reach) ______ on time. (Third Conditional)
-v. I (help) ______ you if you need assistance. (First Conditional)
-vi. If he were careful, he (avoid) ______ accidents. (Second Conditional)
+### **3. a)**
 
-3. b)
+i. If you (press) ______ the switch, the fan starts. *(Zero Conditional)*
+ii. If I (be) ______ stronger, I would lift it. *(Second Conditional)*
+iii. If she (follow) ______ the rules, she will stay safe. *(First Conditional)*
+iv. If they had left earlier, they (reach) ______ on time. *(Third Conditional)*
+v. I (help) ______ you if you need assistance. *(First Conditional)*
+vi. If he were careful, he (avoid) ______ accidents. *(Second Conditional)*
+
+### **3. b)**
+
 i. Because the road was damaged.
 ii. I felt tired I went to bed.
 iii. She sings beautifully.
@@ -1121,30 +1300,39 @@ v. I enjoy movies I watch them weekly.
 vi. After the program ended.
 vii. He was late, but he apologized.
 
+---
 
-✅ Answers
-3(a): press, were, follows, would have reached, will help, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the road was damaged, traffic slowed down.
-ii. Run-on → I felt tired, so I went to bed.
-iii. Complete
-iv. Fragment → I was waiting near the entrance.
-v. Run-on → I enjoy movies, and I watch them weekly.
-vi. Fragment → After the program ended, people left.
-vii. Complete
+### **3(a)**
 
+**press, were, follows, would have reached, will help, would avoid**
 
-✅ SET–32
-3. a)
-i. If water (freeze) ______, it expands. (Zero)
-ii. If I (know) ______ the result, I would tell you. (Second)
-iii. If he (practice) ______ daily, he will improve. (First)
-iv. If she had studied harder, she (pass) ______ the exam. (Third)
-v. I (call) ______ you if I arrive early. (First)
-vi. If they were honest, they (admit) ______ the mistake. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the road was damaged, traffic slowed down.
+ii. **Run-on** → I felt tired, so I went to bed.
+iii. **Complete**
+iv. **Fragment** → I was waiting near the entrance.
+v. **Run-on** → I enjoy movies, and I watch them weekly.
+vi. **Fragment** → After the program ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–32**
+
+### **3. a)**
+
+i. If water (freeze) ______, it expands. *(Zero)*
+ii. If I (know) ______ the result, I would tell you. *(Second)*
+iii. If he (practice) ______ daily, he will improve. *(First)*
+iv. If she had studied harder, she (pass) ______ the exam. *(Third)*
+v. I (call) ______ you if I arrive early. *(First)*
+vi. If they were honest, they (admit) ______ the mistake. *(Second)*
+
+### **3. b)**
+
 i. Because the internet was slow.
 ii. He opened the door the room was silent.
 iii. She teaches biology.
@@ -1153,30 +1341,39 @@ v. I like coffee I drink it daily.
 vi. After the rain stopped.
 vii. She was nervous, yet she spoke clearly.
 
+---
 
-✅ Answers
-3(a): freezes, knew, practices, would have passed, will call, would admit
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the internet was slow, the class started late.
-ii. Run-on → He opened the door, and the room was silent.
-iii. Complete
-iv. Fragment → I was sitting quietly in the class.
-v. Run-on → I like coffee, and I drink it daily.
-vi. Fragment → After the rain stopped, we went outside.
-vii. Complete
+### **3(a)**
 
+**freezes, knew, practices, would have passed, will call, would admit**
 
-✅ SET–33
-3. a)
-i. If you (mix) ______ flour and water, you get dough. (Zero)
-ii. If I (have) ______ time, I would read more. (Second)
-iii. If she (try) ______ again, she will succeed. (First)
-iv. If they had planned better, they (avoid) ______ confusion. (Third)
-v. I (send) ______ the file if I finish today. (First)
-vi. If he were confident, he (speak) ______ publicly. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the internet was slow, the class started late.
+ii. **Run-on** → He opened the door, and the room was silent.
+iii. **Complete**
+iv. **Fragment** → I was sitting quietly in the class.
+v. **Run-on** → I like coffee, and I drink it daily.
+vi. **Fragment** → After the rain stopped, we went outside.
+vii. **Complete**
+
+---
+
+# ✅ **SET–33**
+
+### **3. a)**
+
+i. If you (mix) ______ flour and water, you get dough. *(Zero)*
+ii. If I (have) ______ time, I would read more. *(Second)*
+iii. If she (try) ______ again, she will succeed. *(First)*
+iv. If they had planned better, they (avoid) ______ confusion. *(Third)*
+v. I (send) ______ the file if I finish today. *(First)*
+vi. If he were confident, he (speak) ______ publicly. *(Second)*
+
+### **3. b)**
+
 i. Because the shop was closed.
 ii. I needed help I called my teacher.
 iii. He works efficiently.
@@ -1185,30 +1382,39 @@ v. I enjoy sports I play football.
 vi. After the lecture ended.
 vii. She was tired, but she continued.
 
+---
 
-✅ Answers
-3(a): mix, had, tries, would have avoided, will send, would speak
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop was closed, we returned home.
-ii. Run-on → I needed help, so I called my teacher.
-iii. Complete
-iv. Fragment → I was waiting at the counter.
-v. Run-on → I enjoy sports, and I play football.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**mix, had, tries, would have avoided, will send, would speak**
 
-✅ SET–34
-3. a)
-i. If you (drop) ______ ice, it melts slowly. (Zero)
-ii. If I (be) ______ rich, I would travel the world. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had saved money, she (buy) ______ a phone. (Third)
-v. I (visit) ______ you if I get leave. (First)
-vi. If they were careful, they (prevent) ______ mistakes. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the shop was closed, we returned home.
+ii. **Run-on** → I needed help, so I called my teacher.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the counter.
+v. **Run-on** → I enjoy sports, and I play football.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–34**
+
+### **3. a)**
+
+i. If you (drop) ______ ice, it melts slowly. *(Zero)*
+ii. If I (be) ______ rich, I would travel the world. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had saved money, she (buy) ______ a phone. *(Third)*
+v. I (visit) ______ you if I get leave. *(First)*
+vi. If they were careful, they (prevent) ______ mistakes. *(Second)*
+
+### **3. b)**
+
 i. Because the lights went out.
 ii. She cooked dinner everyone ate happily.
 iii. He writes clearly.
@@ -1217,30 +1423,39 @@ v. I like reading I read novels.
 vi. After the class ended.
 vii. He was nervous, yet he smiled.
 
+---
 
-✅ Answers
-3(a): drop, were, listens, would have bought, will visit, would prevent
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the lights went out, the class stopped.
-ii. Run-on → She cooked dinner, and everyone ate happily.
-iii. Complete
-iv. Fragment → I was standing near the gate.
-v. Run-on → I like reading, and I read novels.
-vi. Fragment → After the class ended, students left.
-vii. Complete
+### **3(a)**
 
+**drop, were, listens, would have bought, will visit, would prevent**
 
-✅ SET–35
-3. a)
-i. If you (touch) ______ fire, it burns. (Zero)
-ii. If I (know) ______ his number, I would call him. (Second)
-iii. If she (wake) ______ early, she will arrive on time. (First)
-iv. If they had practiced more, they (win) ______ the match. (Third)
-v. I (reply) ______ if I get your message. (First)
-vi. If he were patient, he (handle) ______ stress better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the lights went out, the class stopped.
+ii. **Run-on** → She cooked dinner, and everyone ate happily.
+iii. **Complete**
+iv. **Fragment** → I was standing near the gate.
+v. **Run-on** → I like reading, and I read novels.
+vi. **Fragment** → After the class ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–35**
+
+### **3. a)**
+
+i. If you (touch) ______ fire, it burns. *(Zero)*
+ii. If I (know) ______ his number, I would call him. *(Second)*
+iii. If she (wake) ______ early, she will arrive on time. *(First)*
+iv. If they had practiced more, they (win) ______ the match. *(Third)*
+v. I (reply) ______ if I get your message. *(First)*
+vi. If he were patient, he (handle) ______ stress better. *(Second)*
+
+### **3. b)**
+
 i. Because the bus was late.
 ii. I felt sleepy I drank coffee.
 iii. She dances gracefully.
@@ -1249,30 +1464,39 @@ v. I love music I sing daily.
 vi. After the bell rang.
 vii. He was scared, but he tried.
 
+---
 
-✅ Answers
-3(a): touch, knew, wakes, would have won, will reply, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the bus was late, we waited.
-ii. Run-on → I felt sleepy, so I drank coffee.
-iii. Complete
-iv. Fragment → I was waiting for my turn.
-v. Run-on → I love music, and I sing daily.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
 
+**touch, knew, wakes, would have won, will reply, would handle**
 
-✅ SET–36
-3. a)
-i. If water (boil) ______, it evaporates. (Zero)
-ii. If I (have) ______ courage, I would speak out. (Second)
-iii. If he (train) ______ hard, he will succeed. (First)
-iv. If she had listened carefully, she (not make) ______ mistakes. (Third)
-v. I (share) ______ the news if it is true. (First)
-vi. If they were calm, they (solve) ______ the issue. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the bus was late, we waited.
+ii. **Run-on** → I felt sleepy, so I drank coffee.
+iii. **Complete**
+iv. **Fragment** → I was waiting for my turn.
+v. **Run-on** → I love music, and I sing daily.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
+
+---
+
+# ✅ **SET–36**
+
+### **3. a)**
+
+i. If water (boil) ______, it evaporates. *(Zero)*
+ii. If I (have) ______ courage, I would speak out. *(Second)*
+iii. If he (train) ______ hard, he will succeed. *(First)*
+iv. If she had listened carefully, she (not make) ______ mistakes. *(Third)*
+v. I (share) ______ the news if it is true. *(First)*
+vi. If they were calm, they (solve) ______ the issue. *(Second)*
+
+### **3. b)**
+
 i. Because the gate was locked.
 ii. I was hungry I ordered food.
 iii. He works sincerely.
@@ -1281,30 +1505,39 @@ v. I like traveling I visit places.
 vi. After the match ended.
 vii. She was ill, yet she attended class.
 
+---
 
-✅ Answers
-3(a): boils, had, trains, would not have made, will share, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the gate was locked, we waited.
-ii. Run-on → I was hungry, so I ordered food.
-iii. Complete
-iv. Fragment → I was standing beside the road.
-v. Run-on → I like traveling, and I visit places.
-vi. Fragment → After the match ended, fans cheered.
-vii. Complete
+### **3(a)**
 
+**boils, had, trains, would not have made, will share, would solve**
 
-✅ SET–37
-3. a)
-i. If ice (melt) ______, it becomes water. (Zero)
-ii. If I (be) ______ confident, I would speak freely. (Second)
-iii. If she (practice) ______ daily, she will improve. (First)
-iv. If he had followed instructions, he (avoid) ______ trouble. (Third)
-v. I (email) ______ you if I get updates. (First)
-vi. If she were honest, she (admit) ______ her mistake. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the gate was locked, we waited.
+ii. **Run-on** → I was hungry, so I ordered food.
+iii. **Complete**
+iv. **Fragment** → I was standing beside the road.
+v. **Run-on** → I like traveling, and I visit places.
+vi. **Fragment** → After the match ended, fans cheered.
+vii. **Complete**
+
+---
+
+# ✅ **SET–37**
+
+### **3. a)**
+
+i. If ice (melt) ______, it becomes water. *(Zero)*
+ii. If I (be) ______ confident, I would speak freely. *(Second)*
+iii. If she (practice) ______ daily, she will improve. *(First)*
+iv. If he had followed instructions, he (avoid) ______ trouble. *(Third)*
+v. I (email) ______ you if I get updates. *(First)*
+vi. If she were honest, she (admit) ______ her mistake. *(Second)*
+
+### **3. b)**
+
 i. Because the exam was postponed.
 ii. I studied hard I passed the exam.
 iii. She teaches mathematics.
@@ -1313,30 +1546,39 @@ v. I like tea I drink it daily.
 vi. After the storm passed.
 vii. He was late, but he apologized.
 
+---
 
-✅ Answers
-3(a): melts, were, practices, would have avoided, will email, would admit
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the exam was postponed, students relaxed.
-ii. Run-on → I studied hard, so I passed the exam.
-iii. Complete
-iv. Fragment → I was sitting in the hall.
-v. Run-on → I like tea, and I drink it daily.
-vi. Fragment → After the storm passed, life became normal.
-vii. Complete
+### **3(a)**
 
+**melts, were, practices, would have avoided, will email, would admit**
 
-✅ SET–38
-3. a)
-i. If you (shake) ______ a bottle, it spills. (Zero)
-ii. If I (know) ______ the truth, I would react. (Second)
-iii. If he (arrive) ______ early, he will help us. (First)
-iv. If they had planned earlier, they (save) ______ time. (Third)
-v. I (inform) ______ you if there is news. (First)
-vi. If she were focused, she (perform) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the exam was postponed, students relaxed.
+ii. **Run-on** → I studied hard, so I passed the exam.
+iii. **Complete**
+iv. **Fragment** → I was sitting in the hall.
+v. **Run-on** → I like tea, and I drink it daily.
+vi. **Fragment** → After the storm passed, life became normal.
+vii. **Complete**
+
+---
+
+# ✅ **SET–38**
+
+### **3. a)**
+
+i. If you (shake) ______ a bottle, it spills. *(Zero)*
+ii. If I (know) ______ the truth, I would react. *(Second)*
+iii. If he (arrive) ______ early, he will help us. *(First)*
+iv. If they had planned earlier, they (save) ______ time. *(Third)*
+v. I (inform) ______ you if there is news. *(First)*
+vi. If she were focused, she (perform) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the train was delayed.
 ii. I felt bored I watched TV.
 iii. He learns quickly.
@@ -1345,30 +1587,39 @@ v. I enjoy reading I read daily.
 vi. After the program ended.
 vii. She was nervous, yet she performed well.
 
+---
 
-✅ Answers
-3(a): shake, knew, arrives, would have saved, will inform, would perform
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the train was delayed, we waited.
-ii. Run-on → I felt bored, so I watched TV.
-iii. Complete
-iv. Fragment → I was waiting for instructions.
-v. Run-on → I enjoy reading, and I read daily.
-vi. Fragment → After the program ended, people left.
-vii. Complete
+### **3(a)**
 
+**shake, knew, arrives, would have saved, will inform, would perform**
 
-✅ SET–39
-3. a)
-i. If you (touch) ______ ice, it feels cold. (Zero)
-ii. If I (have) ______ confidence, I would speak publicly. (Second)
-iii. If she (work) ______ hard, she will succeed. (First)
-iv. If he had arrived earlier, he (catch) ______ the bus. (Third)
-v. I (call) ______ you if I reach home. (First)
-vi. If they were patient, they (handle) ______ pressure. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the train was delayed, we waited.
+ii. **Run-on** → I felt bored, so I watched TV.
+iii. **Complete**
+iv. **Fragment** → I was waiting for instructions.
+v. **Run-on** → I enjoy reading, and I read daily.
+vi. **Fragment** → After the program ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–39**
+
+### **3. a)**
+
+i. If you (touch) ______ ice, it feels cold. *(Zero)*
+ii. If I (have) ______ confidence, I would speak publicly. *(Second)*
+iii. If she (work) ______ hard, she will succeed. *(First)*
+iv. If he had arrived earlier, he (catch) ______ the bus. *(Third)*
+v. I (call) ______ you if I reach home. *(First)*
+vi. If they were patient, they (handle) ______ pressure. *(Second)*
+
+### **3. b)**
+
 i. Because the shop closed early.
 ii. I needed help I asked my friend.
 iii. She speaks fluently.
@@ -1377,30 +1628,39 @@ v. I like sports I play daily.
 vi. After the lecture ended.
 vii. He was tired, but he continued.
 
+---
 
-✅ Answers
-3(a): touch, had, works, would have caught, will call, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop closed early, we returned.
-ii. Run-on → I needed help, so I asked my friend.
-iii. Complete
-iv. Fragment → I was waiting at the station.
-v. Run-on → I like sports, and I play daily.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**touch, had, works, would have caught, will call, would handle**
 
-✅ SET–40
-3. a)
-i. If you (mix) ______ oil and water, they separate. (Zero)
-ii. If I (be) ______ rich, I would help the poor. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had worked harder, she (achieve) ______ success. (Third)
-v. I (send) ______ the message if I get network. (First)
-vi. If they were careful, they (avoid) ______ danger. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the shop closed early, we returned.
+ii. **Run-on** → I needed help, so I asked my friend.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the station.
+v. **Run-on** → I like sports, and I play daily.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–40**
+
+### **3. a)**
+
+i. If you (mix) ______ oil and water, they separate. *(Zero)*
+ii. If I (be) ______ rich, I would help the poor. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had worked harder, she (achieve) ______ success. *(Third)*
+v. I (send) ______ the message if I get network. *(First)*
+vi. If they were careful, they (avoid) ______ danger. *(Second)*
+
+### **3. b)**
+
 i. Because the power went out.
 ii. I wanted success I worked hard.
 iii. He speaks confidently.
@@ -1409,31 +1669,41 @@ v. I love music I sing daily.
 vi. After the bell rang.
 vii. She was nervous, yet she smiled.
 
+---
 
-✅ Answers
-3(a): mix, were, listens, would have achieved, will send, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the power went out, work stopped.
-ii. Run-on → I wanted success, so I worked hard.
-iii. Complete
-iv. Fragment → I was waiting outside the room.
-v. Run-on → I love music, and I sing daily.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
+
+**mix, were, listens, would have achieved, will send, would avoid**
+
+### **3(b)**
+
+i. **Fragment** → Because the power went out, work stopped.
+ii. **Run-on** → I wanted success, so I worked hard.
+iii. **Complete**
+iv. **Fragment** → I was waiting outside the room.
+v. **Run-on** → I love music, and I sing daily.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
 
 ---
-✅ SET–41 : Part–2 Grammar (10 Marks)
-Part C: Grammar
-3. a)
-i. If you (heat) ______ water, it turns into steam. (Zero Conditional)
-ii. If I (have) ______ enough time, I would finish the task. (Second Conditional)
-iii. If she (work) ______ sincerely, she will succeed. (First Conditional)
-iv. If they had checked the details, they (avoid) ______ the mistake. (Third Conditional)
-v. I (help) ______ you if you ask me. (First Conditional)
-vi. If he were confident, he (answer) ______ correctly. (Second Conditional)
 
-3. b)
+# ✅ **SET–41 : Part–2 Grammar (10 Marks)**
+
+## Part C: Grammar
+
+### **3. a)**
+
+i. If you (heat) ______ water, it turns into steam. *(Zero Conditional)*
+ii. If I (have) ______ enough time, I would finish the task. *(Second Conditional)*
+iii. If she (work) ______ sincerely, she will succeed. *(First Conditional)*
+iv. If they had checked the details, they (avoid) ______ the mistake. *(Third Conditional)*
+v. I (help) ______ you if you ask me. *(First Conditional)*
+vi. If he were confident, he (answer) ______ correctly. *(Second Conditional)*
+
+### **3. b)**
+
 i. Because the road was blocked.
 ii. I felt tired I stopped working.
 iii. She teaches history.
@@ -1442,30 +1712,39 @@ v. I like reading I read daily.
 vi. After the class finished.
 vii. He was nervous, but he tried.
 
+---
 
-✅ Answers
-3(a): heat, had, works, would have avoided, will help, would answer
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the road was blocked, traffic stopped.
-ii. Run-on → I felt tired, so I stopped working.
-iii. Complete
-iv. Fragment → I was waiting for the manager.
-v. Run-on → I like reading, and I read daily.
-vi. Fragment → After the class finished, students left.
-vii. Complete
+### **3(a)**
 
+**heat, had, works, would have avoided, will help, would answer**
 
-✅ SET–42
-3. a)
-i. If you (freeze) ______ water, it becomes ice. (Zero)
-ii. If I (know) ______ the reason, I would explain it. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had arrived early, she (get) ______ a seat. (Third)
-v. I (call) ______ you if I reach home. (First)
-vi. If they were united, they (win) ______ the match. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the road was blocked, traffic stopped.
+ii. **Run-on** → I felt tired, so I stopped working.
+iii. **Complete**
+iv. **Fragment** → I was waiting for the manager.
+v. **Run-on** → I like reading, and I read daily.
+vi. **Fragment** → After the class finished, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–42**
+
+### **3. a)**
+
+i. If you (freeze) ______ water, it becomes ice. *(Zero)*
+ii. If I (know) ______ the reason, I would explain it. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had arrived early, she (get) ______ a seat. *(Third)*
+v. I (call) ______ you if I reach home. *(First)*
+vi. If they were united, they (win) ______ the match. *(Second)*
+
+### **3. b)**
+
 i. Because the internet was slow.
 ii. He entered the room everyone stared.
 iii. She speaks fluently.
@@ -1474,30 +1753,39 @@ v. I enjoy music I play guitar.
 vi. After the lecture ended.
 vii. She was tired, yet she continued.
 
+---
 
-✅ Answers
-3(a): freeze, knew, listens, would have got, will call, would win
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the internet was slow, the class was delayed.
-ii. Run-on → He entered the room, and everyone stared.
-iii. Complete
-iv. Fragment → I was sitting near the window.
-v. Run-on → I enjoy music, and I play guitar.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**freeze, knew, listens, would have got, will call, would win**
 
-✅ SET–43
-3. a)
-i. If ice (melt) ______, it becomes water. (Zero)
-ii. If I (be) ______ stronger, I would lift the box. (Second)
-iii. If she (practice) ______ daily, she will improve. (First)
-iv. If they had planned well, they (save) ______ time. (Third)
-v. I (send) ______ you the report if I finish today. (First)
-vi. If he were patient, he (solve) ______ the problem. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the internet was slow, the class was delayed.
+ii. **Run-on** → He entered the room, and everyone stared.
+iii. **Complete**
+iv. **Fragment** → I was sitting near the window.
+v. **Run-on** → I enjoy music, and I play guitar.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–43**
+
+### **3. a)**
+
+i. If ice (melt) ______, it becomes water. *(Zero)*
+ii. If I (be) ______ stronger, I would lift the box. *(Second)*
+iii. If she (practice) ______ daily, she will improve. *(First)*
+iv. If they had planned well, they (save) ______ time. *(Third)*
+v. I (send) ______ you the report if I finish today. *(First)*
+vi. If he were patient, he (solve) ______ the problem. *(Second)*
+
+### **3. b)**
+
 i. Because the bus was late.
 ii. I woke up late I missed the class.
 iii. He writes clearly.
@@ -1506,30 +1794,39 @@ v. I like sports I play football.
 vi. After the meeting ended.
 vii. She was nervous, but she smiled.
 
+---
 
-✅ Answers
-3(a): melts, were, practices, would have saved, will send, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the bus was late, we waited.
-ii. Run-on → I woke up late, so I missed the class.
-iii. Complete
-iv. Fragment → I was standing outside the office.
-v. Run-on → I like sports, and I play football.
-vi. Fragment → After the meeting ended, we left.
-vii. Complete
+### **3(a)**
 
+**melts, were, practices, would have saved, will send, would solve**
 
-✅ SET–44
-3. a)
-i. If you (mix) ______ salt with water, it dissolves. (Zero)
-ii. If I (have) ______ confidence, I would speak publicly. (Second)
-iii. If he (study) ______ properly, he will pass. (First)
-iv. If she had listened carefully, she (not make) ______ mistakes. (Third)
-v. I (reply) ______ if I get your message. (First)
-vi. If they were careful, they (avoid) ______ danger. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the bus was late, we waited.
+ii. **Run-on** → I woke up late, so I missed the class.
+iii. **Complete**
+iv. **Fragment** → I was standing outside the office.
+v. **Run-on** → I like sports, and I play football.
+vi. **Fragment** → After the meeting ended, we left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–44**
+
+### **3. a)**
+
+i. If you (mix) ______ salt with water, it dissolves. *(Zero)*
+ii. If I (have) ______ confidence, I would speak publicly. *(Second)*
+iii. If he (study) ______ properly, he will pass. *(First)*
+iv. If she had listened carefully, she (not make) ______ mistakes. *(Third)*
+v. I (reply) ______ if I get your message. *(First)*
+vi. If they were careful, they (avoid) ______ danger. *(Second)*
+
+### **3. b)**
+
 i. Because the shop was closed.
 ii. I felt sleepy I drank tea.
 iii. She dances well.
@@ -1538,30 +1835,39 @@ v. I love music I sing daily.
 vi. After the storm passed.
 vii. He was tired, yet he finished.
 
+---
 
-✅ Answers
-3(a): mix, had, studies, would not have made, will reply, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop was closed, we returned.
-ii. Run-on → I felt sleepy, so I drank tea.
-iii. Complete
-iv. Fragment → I was waiting for my friend.
-v. Run-on → I love music, and I sing daily.
-vi. Fragment → After the storm passed, life returned to normal.
-vii. Complete
+### **3(a)**
 
+**mix, had, studies, would not have made, will reply, would avoid**
 
-✅ SET–45
-3. a)
-i. If you (touch) ______ fire, it burns. (Zero)
-ii. If I (know) ______ his address, I would visit him. (Second)
-iii. If she (wake) ______ early, she will arrive on time. (First)
-iv. If they had saved money, they (buy) ______ a car. (Third)
-v. I (visit) ______ you if I get time. (First)
-vi. If he were honest, he (admit) ______ the truth. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the shop was closed, we returned.
+ii. **Run-on** → I felt sleepy, so I drank tea.
+iii. **Complete**
+iv. **Fragment** → I was waiting for my friend.
+v. **Run-on** → I love music, and I sing daily.
+vi. **Fragment** → After the storm passed, life returned to normal.
+vii. **Complete**
+
+---
+
+# ✅ **SET–45**
+
+### **3. a)**
+
+i. If you (touch) ______ fire, it burns. *(Zero)*
+ii. If I (know) ______ his address, I would visit him. *(Second)*
+iii. If she (wake) ______ early, she will arrive on time. *(First)*
+iv. If they had saved money, they (buy) ______ a car. *(Third)*
+v. I (visit) ______ you if I get time. *(First)*
+vi. If he were honest, he (admit) ______ the truth. *(Second)*
+
+### **3. b)**
+
 i. Because the train was delayed.
 ii. I needed help I asked my teacher.
 iii. She teaches English.
@@ -1570,30 +1876,39 @@ v. I like tea I drink it daily.
 vi. After the bell rang.
 vii. He was nervous, but he answered.
 
+---
 
-✅ Answers
-3(a): touch, knew, wakes, would have bought, will visit, would admit
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the train was delayed, we waited.
-ii. Run-on → I needed help, so I asked my teacher.
-iii. Complete
-iv. Fragment → I was waiting at the bus stop.
-v. Run-on → I like tea, and I drink it daily.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
 
+**touch, knew, wakes, would have bought, will visit, would admit**
 
-✅ SET–46
-3. a)
-i. If water (boil) ______, it evaporates. (Zero)
-ii. If I (be) ______ rich, I would help the poor. (Second)
-iii. If he (train) ______ hard, he will succeed. (First)
-iv. If she had worked harder, she (achieve) ______ success. (Third)
-v. I (inform) ______ you if I receive news. (First)
-vi. If they were calm, they (handle) ______ pressure. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the train was delayed, we waited.
+ii. **Run-on** → I needed help, so I asked my teacher.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the bus stop.
+v. **Run-on** → I like tea, and I drink it daily.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
+
+---
+
+# ✅ **SET–46**
+
+### **3. a)**
+
+i. If water (boil) ______, it evaporates. *(Zero)*
+ii. If I (be) ______ rich, I would help the poor. *(Second)*
+iii. If he (train) ______ hard, he will succeed. *(First)*
+iv. If she had worked harder, she (achieve) ______ success. *(Third)*
+v. I (inform) ______ you if I receive news. *(First)*
+vi. If they were calm, they (handle) ______ pressure. *(Second)*
+
+### **3. b)**
+
 i. Because the gate was locked.
 ii. I felt bored I watched TV.
 iii. He learns quickly.
@@ -1602,30 +1917,39 @@ v. I like traveling I visit places.
 vi. After the program ended.
 vii. She was scared, yet she continued.
 
+---
 
-✅ Answers
-3(a): boils, were, trains, would have achieved, will inform, would handle
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the gate was locked, we waited.
-ii. Run-on → I felt bored, so I watched TV.
-iii. Complete
-iv. Fragment → I was standing beside the road.
-v. Run-on → I like traveling, and I visit places.
-vi. Fragment → After the program ended, people left.
-vii. Complete
+### **3(a)**
 
+**boils, were, trains, would have achieved, will inform, would handle**
 
-✅ SET–47
-3. a)
-i. If ice (freeze) ______, it expands. (Zero)
-ii. If I (have) ______ wings, I would fly. (Second)
-iii. If she (try) ______ again, she will succeed. (First)
-iv. If he had followed instructions, he (avoid) ______ trouble. (Third)
-v. I (email) ______ you if I get updates. (First)
-vi. If she were confident, she (speak) ______ publicly. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the gate was locked, we waited.
+ii. **Run-on** → I felt bored, so I watched TV.
+iii. **Complete**
+iv. **Fragment** → I was standing beside the road.
+v. **Run-on** → I like traveling, and I visit places.
+vi. **Fragment** → After the program ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–47**
+
+### **3. a)**
+
+i. If ice (freeze) ______, it expands. *(Zero)*
+ii. If I (have) ______ wings, I would fly. *(Second)*
+iii. If she (try) ______ again, she will succeed. *(First)*
+iv. If he had followed instructions, he (avoid) ______ trouble. *(Third)*
+v. I (email) ______ you if I get updates. *(First)*
+vi. If she were confident, she (speak) ______ publicly. *(Second)*
+
+### **3. b)**
+
 i. Because the exam was postponed.
 ii. I studied hard I passed.
 iii. She works sincerely.
@@ -1634,30 +1958,39 @@ v. I enjoy reading I read daily.
 vi. After the lecture ended.
 vii. He was late, but he apologized.
 
+---
 
-✅ Answers
-3(a): freezes, had, tries, would have avoided, will email, would speak
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the exam was postponed, students relaxed.
-ii. Run-on → I studied hard, so I passed.
-iii. Complete
-iv. Fragment → I was sitting in the hall.
-v. Run-on → I enjoy reading, and I read daily.
-vi. Fragment → After the lecture ended, students left.
-vii. Complete
+### **3(a)**
 
+**freezes, had, tries, would have avoided, will email, would speak**
 
-✅ SET–48
-3. a)
-i. If you (shake) ______ a bottle, it spills. (Zero)
-ii. If I (know) ______ the truth, I would react differently. (Second)
-iii. If he (arrive) ______ early, he will help us. (First)
-iv. If they had planned earlier, they (save) ______ money. (Third)
-v. I (share) ______ the news if it is confirmed. (First)
-vi. If she were attentive, she (understand) ______ better. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the exam was postponed, students relaxed.
+ii. **Run-on** → I studied hard, so I passed.
+iii. **Complete**
+iv. **Fragment** → I was sitting in the hall.
+v. **Run-on** → I enjoy reading, and I read daily.
+vi. **Fragment** → After the lecture ended, students left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–48**
+
+### **3. a)**
+
+i. If you (shake) ______ a bottle, it spills. *(Zero)*
+ii. If I (know) ______ the truth, I would react differently. *(Second)*
+iii. If he (arrive) ______ early, he will help us. *(First)*
+iv. If they had planned earlier, they (save) ______ money. *(Third)*
+v. I (share) ______ the news if it is confirmed. *(First)*
+vi. If she were attentive, she (understand) ______ better. *(Second)*
+
+### **3. b)**
+
 i. Because the lights went out.
 ii. He opened the door the room was empty.
 iii. She speaks politely.
@@ -1666,30 +1999,39 @@ v. I like movies I watch weekly.
 vi. After the show ended.
 vii. He was tired, yet he smiled.
 
+---
 
-✅ Answers
-3(a): shake, knew, arrives, would have saved, will share, would understand
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the lights went out, work stopped.
-ii. Run-on → He opened the door, and the room was empty.
-iii. Complete
-iv. Fragment → I was waiting for instructions.
-v. Run-on → I like movies, and I watch weekly.
-vi. Fragment → After the show ended, people left.
-vii. Complete
+### **3(a)**
 
+**shake, knew, arrives, would have saved, will share, would understand**
 
-✅ SET–49
-3. a)
-i. If you (touch) ______ ice, it feels cold. (Zero)
-ii. If I (be) ______ confident, I would speak clearly. (Second)
-iii. If she (work) ______ hard, she will succeed. (First)
-iv. If he had arrived earlier, he (catch) ______ the bus. (Third)
-v. I (call) ______ you if I reach home. (First)
-vi. If they were patient, they (solve) ______ the issue. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the lights went out, work stopped.
+ii. **Run-on** → He opened the door, and the room was empty.
+iii. **Complete**
+iv. **Fragment** → I was waiting for instructions.
+v. **Run-on** → I like movies, and I watch weekly.
+vi. **Fragment** → After the show ended, people left.
+vii. **Complete**
+
+---
+
+# ✅ **SET–49**
+
+### **3. a)**
+
+i. If you (touch) ______ ice, it feels cold. *(Zero)*
+ii. If I (be) ______ confident, I would speak clearly. *(Second)*
+iii. If she (work) ______ hard, she will succeed. *(First)*
+iv. If he had arrived earlier, he (catch) ______ the bus. *(Third)*
+v. I (call) ______ you if I reach home. *(First)*
+vi. If they were patient, they (solve) ______ the issue. *(Second)*
+
+### **3. b)**
+
 i. Because the shop closed early.
 ii. I wanted rest I went home.
 iii. She teaches chemistry.
@@ -1698,30 +2040,39 @@ v. I like sports I play daily.
 vi. After the storm passed.
 vii. He was nervous, but he continued.
 
+---
 
-✅ Answers
-3(a): touch, were, works, would have caught, will call, would solve
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the shop closed early, we returned.
-ii. Run-on → I wanted rest, so I went home.
-iii. Complete
-iv. Fragment → I was waiting at the station.
-v. Run-on → I like sports, and I play daily.
-vi. Fragment → After the storm passed, life became normal.
-vii. Complete
+### **3(a)**
 
+**touch, were, works, would have caught, will call, would solve**
 
-✅ SET–50 (FINAL SET)
-3. a)
-i. If you (mix) ______ oil and water, they separate. (Zero)
-ii. If I (have) ______ more courage, I would speak up. (Second)
-iii. If he (listen) ______ carefully, he will understand. (First)
-iv. If she had prepared well, she (not fail) ______. (Third)
-v. I (send) ______ the email if I get internet. (First)
-vi. If they were careful, they (avoid) ______ accidents. (Second)
+### **3(b)**
 
-3. b)
+i. **Fragment** → Because the shop closed early, we returned.
+ii. **Run-on** → I wanted rest, so I went home.
+iii. **Complete**
+iv. **Fragment** → I was waiting at the station.
+v. **Run-on** → I like sports, and I play daily.
+vi. **Fragment** → After the storm passed, life became normal.
+vii. **Complete**
+
+---
+
+# ✅ **SET–50 (FINAL SET)**
+
+### **3. a)**
+
+i. If you (mix) ______ oil and water, they separate. *(Zero)*
+ii. If I (have) ______ more courage, I would speak up. *(Second)*
+iii. If he (listen) ______ carefully, he will understand. *(First)*
+iv. If she had prepared well, she (not fail) ______. *(Third)*
+v. I (send) ______ the email if I get internet. *(First)*
+vi. If they were careful, they (avoid) ______ accidents. *(Second)*
+
+### **3. b)**
+
 i. Because the power went out.
 ii. I wanted success I worked hard.
 iii. She speaks confidently.
@@ -1730,17 +2081,24 @@ v. I love music I sing daily.
 vi. After the bell rang.
 vii. He was tired, yet he smiled.
 
+---
 
-✅ Answers
-3(a): mix, had, listens, would not have failed, will send, would avoid
+## ✅ **Answers**
 
-3(b):
-i. Fragment → Because the power went out, work stopped.
-ii. Run-on → I wanted success, so I worked hard.
-iii. Complete
-iv. Fragment → I was waiting outside the room.
-v. Run-on → I love music, and I sing daily.
-vi. Fragment → After the bell rang, class ended.
-vii. Complete
+### **3(a)**
+
+**mix, had, listens, would not have failed, will send, would avoid**
+
+### **3(b)**
+
+i. **Fragment** → Because the power went out, work stopped.
+ii. **Run-on** → I wanted success, so I worked hard.
+iii. **Complete**
+iv. **Fragment** → I was waiting outside the room.
+v. **Run-on** → I love music, and I sing daily.
+vi. **Fragment** → After the bell rang, class ended.
+vii. **Complete**
+
+---
 
 ---
