@@ -27,12 +27,15 @@
 **1. a) Select the most suitable headings for the given paragraphs from the list below. Write the appropriate number (I-VII) next to Paragraphs A-E.** [5x1=5]
 *List of Headings:*
 I.   The geographical limitations of certain energies
-II.  The economic benefits of coal
+
 III. Challenges: Storage and initial costs
+
 IV.  A collective responsibility for the future
+
 V.   The environmental price of traditional fuels
-VI.  How to fix a wind turbine
+
 VII. The rise of solar and wind alternatives
+
 
 1. Paragraph A: ______
 2. Paragraph B: ______
