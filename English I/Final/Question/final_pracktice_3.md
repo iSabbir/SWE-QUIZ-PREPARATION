@@ -26,13 +26,17 @@
 
 **1. a) Select the most suitable headings for the given paragraphs from the list below. Write the appropriate number (I-VII) next to Paragraphs A-E.** [5x1=5]
 *List of Headings:*
+
 I.   The hidden danger of tiny particles
+
 II.  The formation of floating trash islands
+
 III. Steps toward a cleaner future
-IV.  The economic value of recycling
+
 V.   The durability and drawbacks of a common material
+
 VI.  Confusion and entanglement: Harm to animals
-VII. How plastic is manufactured
+
 
 1. Paragraph A: ______
 2. Paragraph B: ______
