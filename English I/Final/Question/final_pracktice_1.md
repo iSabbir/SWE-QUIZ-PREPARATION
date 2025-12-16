@@ -26,12 +26,15 @@
 
 **1. a) Select the most suitable headings for the given paragraphs from the list below. Write the appropriate number (I-VII) next to Paragraphs A-E.** [5x1=5]
 *List of Headings:*
-I.   The psychological toll of isolation
+
 II.  Combining office and home working styles
+
 III. Advantages regarding time and lifestyle
-IV.  The definition of a traditional office
+
 V.   A fundamental shift in the concept of employment
+
 VI.  Looking ahead: The permanence of change
+
 VII. Disadvantages: Culture and Burnout
 
 1. Paragraph A: ______
