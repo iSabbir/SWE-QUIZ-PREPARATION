@@ -122,12 +122,19 @@ vi.  If I were you, I (accept) ______ the job offer. (Second Conditional)
 **3. b) Identify if the following sentences are Fragment, Run-on, or Complete. If the sentence is a Fragment or Run-on, rewrite it to fix the error.** [7x1=7]
 
 i.   Driving through the heavy storm.
+
 ii.  The teacher explained the lesson the students took notes.
+
 iii. Because she woke up late.
+
 iv.  The store was closed, so we went home.
+
 v.   He loves to play football he is the captain of the team.
+
 vi.  Apart from the noise, the hotel was very comfortable.
+
 vii. Eating lunch in the cafeteria.
+
 
 ---
 
