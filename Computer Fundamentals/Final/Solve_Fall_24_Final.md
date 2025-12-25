@@ -1,13 +1,16 @@
 ---
 
-# **Question 1(a): BMI Classification — Algorithm & Flowchart (13 marks)**
+---
+title: "Question 1(a): BMI Classification — Algorithm & Flowchart"
+---
 
 ### **Given**
 
 BMI formula:
-[
+
+\[
 \text{BMI} = \frac{\text{Weight (kg)}}{(\text{Height (m)})^2}
-]
+\]
 
 ### **BMI Categories**
 
